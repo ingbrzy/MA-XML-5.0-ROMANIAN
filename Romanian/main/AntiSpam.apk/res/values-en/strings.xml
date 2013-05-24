@@ -12,7 +12,7 @@
   <string name="act_call">Inregistrare apeluri</string>
   <string name="act_del_ms">Nu afisa</string>
   <string name="act_del_ms_summary">Mesajele respinse nu vor fi afisate</string>
-  <string name="act_hangup_call">Hang up immediately</string>
+  <string name="act_hangup_call">Respinge imediat</string>
   <string name="act_hangup_call_summary">Apelurile respinse nu vor fi afisate in registrul apeluri</string>
   <string name="act_ignore_call">Nu inregistra apelurile</string>
   <string name="act_ignore_ms">Ignorare notificari(s)</string>
