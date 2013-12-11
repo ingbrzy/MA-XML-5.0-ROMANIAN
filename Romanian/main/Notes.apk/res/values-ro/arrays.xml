@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="contact_entries">
+        <item>Nume</item>
+        <item>Poreclă</item>
+        <item>Telefon</item>
+        <item>E-mail</item>
+        <item>Organizaţie</item>
+        <item>IM</item>
+        <item>Telefon SIP</item>
+        <item>Zi de naştere</item>
+        <item>Site web</item>
+        <item>Addresă</item>
+        <item>Notă</item>
+    </string-array>
+    <string-array name="font_size_names">
+        <item>Mic</item>
+        <item>Prestabilit</item>
+        <item>Mare</item>
+        <item>Foarte mare</item>
+    </string-array>
+</resources>

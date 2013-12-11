@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="backup_dialog_content_type">
+        <item>Date Wi-Fi</item>
+        <item>Toate aplicaţiile</item>
+    </string-array>
+    <string-array name="system_package_label">
+        <item>Browser</item>
+        <item>Manager fişiere</item>
+        <item>Galerie</item>
+        <item>Manager permisiuni</item>
+        <item>Cameră foto</item>
+        <item>Asistent reţea</item>
+        <item>Stocare vreme</item>
+        <item>Vreme</item>
+    </string-array>
+    <string-array name="system_data_label">
+        <item>Contacte</item>
+        <item>Jurnal apeluri</item>
+        <item>Mesaje</item>
+        <item>Mesaje multimedia</item>
+        <item>Setări de sistem</item>
+        <item>Setări Wi-Fi</item>
+        <item>Schemă desktop</item>
+        <item>Setări alarmă</item>
+        <item>Note</item>
+        <item>Nu deranjaţi</item>
+        <item>Cont</item>
+    </string-array>
+    <string-array name="app_type_desc">
+        <item>Date.</item>
+        <item>Aplicaţie.</item>
+        <item>Aplicaţie şi date.</item>
+    </string-array>
+    <string-array name="cloud_data_label">
+        <item>Contacte</item>
+        <item>Jurnal apeluri</item>
+        <item>Mesaje</item>
+        <item>Setări Wi-Fi</item>
+        <item>Note</item>
+    </string-array>
+    <string-array name="cloud_account_data">
+        <item>Contacte</item>
+        <item>Setări Wi-Fi</item>
+        <item>Note</item>
+    </string-array>
+    <string-array name="cloud_sim_data">
+        <item>Jurnal apeluri</item>
+        <item>Mesaje</item>
+    </string-array>
+</resources>

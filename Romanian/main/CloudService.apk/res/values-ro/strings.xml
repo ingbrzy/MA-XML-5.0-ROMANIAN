@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sincronizare Xiaomi</string>
+    <string name="sync_item_sms_title">Sincronizare SMS</string>
+    <string name="sync_item_sms_summary">Activaţi pentru sincronizarea mesajelor text</string>
+    <string name="sub_sync_item_sms_title_wifi_only">Sincronizare MMS: doar în Wi-Fi</string>
+    <string name="sub_sync_item_sms_summary">Recomandat pentru a activa, în caz contrar aceasta va duce la creșterea traficului de date</string>
+    <string name="pref_title_sync_contacts_title">Sincronizare contacte</string>
+    <string name="pref_title_sync_display_photo_on_wifi_only">Afişare fotografii: doar în Wi-Fi</string>
+    <string name="pref_summary_sync_display_photo_on_wifi_only">Recomandat pentru a activa, în caz contrar aceasta va duce la creșterea traficului de date</string>
+    <string name="find_device">Căutare dispozitiv</string>
+    <string name="find_device_stop_noise">Apăsaţi \"OK\" pentru a opri sunetul</string>
+    <string name="sync_item_calllog_title">Sincronizare Jurnal apeluri</string>
+    <string name="sync_item_calllog_summary">Activaţi pentru sincronizarea jurnalelor apelurilor</string>
+</resources>

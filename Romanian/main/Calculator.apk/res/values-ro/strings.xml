@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="advanced">Panou avansat</string>
+  <string name="app_name">Calculator</string>
+  <string name="basic">Panou de bază</string>
+  <string name="clear">C</string>
+  <string name="clearDesc">ştergere</string>
+  <string name="clear_history">Ştergeţi istoricul</string>
+  <string name="cosDesc">cosinus</string>
+  <string name="delDesc">ştergere</string>
+  <string name="divDesc">împărţire</string>
+  <string name="dotDesc">punct</string>
+  <string name="eDesc">"Numărul lui Euler"</string>
+  <string name="equalDesc">egal</string>
+  <string name="error">Eroare</string>
+  <string name="factorialDesc">factorial</string>
+  <string name="leftParenDesc">paranteză stânga</string>
+  <string name="lgDesc">logaritm</string>
+  <string name="lnDesc">logaritm natural</string>
+  <string name="minusDesc">minus</string>
+  <string name="mulDesc">înmulţire</string>
+  <string name="plusDesc">plus</string>
+  <string name="powerDesc">putere</string>
+  <string name="rightParenDesc">paranteză dreapta</string>
+  <string name="scientific">ştinţific</string>
+  <string name="sinDesc">sinus</string>
+  <string name="sqrtDesc">rădăcină pătrată</string>
+  <string name="standard">standard</string>
+  <string name="tanDesc">tangentă</string>
+  <string name="text_copied_toast">Text copiat.</string>
+</resources>
