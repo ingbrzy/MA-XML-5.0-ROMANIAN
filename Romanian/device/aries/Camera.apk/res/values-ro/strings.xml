@@ -230,7 +230,7 @@
   <string name="pref_camera_movie_solid_entry_on">Pornit</string>
   <string name="pref_camera_movie_solid_title">Film plin</string>
   <string name="pref_camera_movie_solid_value_off">închis</string>
-  <string name="pref_camera_movie_solid_value_on"></string>pornitn</string>
+  <string name="pref_camera_movie_solid_value_on">pornitn</string>
   <string name="pref_camera_panoramamode_title">Panorama</string>
   <string name="pref_camera_picture_format_default">jpeg</string>
   <string name="pref_camera_picture_format_entry_jpeg">Jpeg</string>
