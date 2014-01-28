@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="accessibility_airplane_mode">Airplane mode.</string>
-  <string name="accessibility_back">Back</string>
-  <string name="accessibility_battery_level">Battery %d percent.</string>
-  <string name="accessibility_bluetooth_connected">Bluetooth connected.</string>
-  <string name="accessibility_bluetooth_disconnected">Bluetooth disconnected.</string>
+  <string name="accessibility_airplane_mode">Mod avion.</string>
+  <string name="accessibility_back">Înapoi</string>
+  <string name="accessibility_battery_level">Procent baterie %d.</string>
+  <string name="accessibility_bluetooth_connected">Bluetooth conectat.</string>
+  <string name="accessibility_bluetooth_disconnected">Bluetooth deconectat.</string>
   <string name="accessibility_bluetooth_tether">Bluetooth tethering.</string>
-  <string name="accessibility_clear_all">Clear all notifications.</string>
+  <string name="accessibility_clear_all">Şterge toate notificările.</string>
   <string name="accessibility_compatibility_zoom_button">Compatibility zoom button.</string>
   <string name="accessibility_compatibility_zoom_example">Zoom smaller to larger screen.</string>
   <string name="accessibility_data_connection_3.5g">3.5G</string>
