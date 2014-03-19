@@ -113,8 +113,8 @@ Pentru a activa această funcţie accesaţi Setări > Butoane"</string>
     <string name="v5_edit_mode_title_empty">0 elemente selectate</string>
     <string name="v5_icon_menu_bar_more_item_label">Mai mult</string>
     <string name="v5_select_all">Selectaţi tot</string>
-    <string name="v5_time_picker_label_hour">Ora</string>
-    <string name="v5_time_picker_label_minute">Min.</string>
+    <string name="v5_time_picker_label_hour">ora</string>
+    <string name="v5_time_picker_label_minute">min.</string>
     <string name="valentines_day">Ziua Îndrăgostiților</string>
     <string name="vernal_equinox">Echinocțiul de primăvară</string>
     <string name="volume_alarm">Alarmă</string>
