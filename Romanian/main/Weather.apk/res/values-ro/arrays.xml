@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="send_item">
+        <item>SMS</item>
+        <item>E-mail</item>
+    </string-array>
+    <string-array name="act_weather_main_listview_key">
+        <item>Viteza vântului:\u0020</item>
+        <item>Indicele UV:\u0020</item>
+        <item>Îmbrăcăminte:\u0020</item>
+        <item>Confort:\u0020</item>
+        <item>Spălare automobil:\u0020</item>
+        <item>Indicele de uscare:\u0020</item>
+        <item>Exerciţiul de dimineaţă:\u0020</item>
+        <item>Timpul liber:\u0020</item>
+    </string-array>
+    <string-array name="weather_image">
+        <item>Senin</item>
+        <item>Înnorat</item>
+        <item>Ceaţă</item>
+        <item>Ceaţă</item>
+        <item>Ploaie puternică</item>
+        <item>Furtună</item>
+        <item>Ploaie torenţială</item>
+        <item>Furtună cu trăsnete</item>
+        <item>Averse</item>
+        <item>Ploaie torenţială</item>
+        <item>Ploaie</item>
+        <item>Burniţă</item>
+        <item>Lapoviţă</item>
+        <item>Viscol</item>
+        <item>Ninsoare</item>
+        <item>Ninsoare puternică</item>
+        <item>Ninsoare</item>
+        <item>Ninsoare uşoară</item>
+        <item>Furtună puternică de nisip</item>
+        <item>Furtună de nisip</item>
+        <item>Furtună slabă de nisip</item>
+        <item>Furtună de nisip</item>
+        <item>Grindină</item>
+        <item>Praf</item>
+        <item>Ceaţă</item>
+    </string-array>
+    <string-array name="weather_details_key">
+        <item>Indisponibil</item>
+        <item>Potrivit</item>
+        <item>Bun</item>
+        <item>Evitați dacă este posibil</item>
+        <item>Nu se recomandă</item>
+        <item>Ideal</item>
+        <item>Moderat</item>
+        <item>Slab</item>
+        <item>Mediu</item>
+        <item>Puternic</item>
+        <item>Foarte puternic</item>
+        <item>Rece</item>
+        <item>Confortabil</item>
+        <item>Foarte cald</item>
+        <item>Caniculă</item>
+        <item>Cald</item>
+        <item>Rece</item>
+        <item>Răcoros</item>
+        <item>Rece</item>
+        <item>Îngheţ</item>
+        <item>Înalt</item>
+        <item>Mediu</item>
+        <item>Jos</item>
+        <item>Cer senin</item>
+        <item>Înorat</item>
+        <item>Ploaie</item>
+        <item>Furtună de nisip</item>
+        <item>Ninsoare</item>
+        <item>Relativ adecvate</item>
+        <item>Condiții adecvate</item>
+        <item>Înorat</item>
+        <item>Mai puțin decât ideal</item>
+        <item>Condiţii ideale</item>
+        <item>Condiții proaste</item>
+        <item>Condiţii medii</item>
+    </string-array>
+    <string-array name="weather_image_tips">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Plouă putenic, nu utaţi să luaţi umbrela!</item>
+        <item>Plouă putenic, nu utaţi să luaţi umbrela!</item>
+        <item>Plouă putenic, nu utaţi să luaţi umbrela!</item>
+        <item>Dacă ieşiţi, nu utaţi să luaţi umbrela!</item>
+        <item>Dacă ieşiţi, nu utaţi să luaţi umbrela!</item>
+        <item>Dacă ieşiţi, nu utaţi să luaţi umbrela!</item>
+        <item>O să plouă azi, nu utaţi să luaţi umbrela!</item>
+        <item>E burniță, nu utaţi să luaţi umbrela!</item>
+        <item>E lapoviţă, nu utaţi să luaţi umbrela!</item>
+        <item>Ninge puternic, nu uitaţi să îmbrăcaţi căciula şi eşarfa!</item>
+        <item>O să ningă azi, nu uitaţi să îmbrăcaţi căciula şi eşarfa!</item>
+        <item>Ninge puternic, nu uitaţi să îmbrăcaţi căciula şi eşarfa!</item>
+        <item>Ninge, nu uitaţi să îmbrăcaţi căciula şi eşarfa!</item>
+        <item>Ninge slab, nu uitaţi să îmbrăcaţi căciula şi eşarfa</item>
+        <item>E furtună puternică de nisip, nu uitaţi să puneţi o mască pe faţă</item>
+        <item>Plouă slab, nu utaţi să luaţi umbrela</item>
+        <item>E furtună puternică de nisip, nu uitaţi să puneţi o mască pe faţă</item>
+        <item>E furtună puternică de nisip, nu uitaţi să puneţi o mască pe faţă</item>
+        <item>Nu vedeţi grindină în fiecare zi! Păşiţi atent!</item>
+    </string-array>
+    <string-array name="weather_sms_content">
+        <item>Nu uitaţi să luaţi o protecţie solară</item>
+        <item>Va fi înnorat astăzi</item>
+        <item>Vremea se va înrăutăți, Încercaţi să rămâneţi în interior pentru o vreme</item>
+        <item>Conduceţi cu prudenţă :)</item>
+        <item>Plouă putenic, nu utaţi să luaţi umbrela</item>
+        <item>Plouă putenic, nu utaţi să luaţi umbrela</item>
+        <item>Plouă putenic, nu utaţi să luaţi umbrela</item>
+        <item>Luaţi o umbrelă!</item>
+        <item>Luaţi o umbrelă!</item>
+        <item>Luaţi o umbrelă! :)</item>
+        <item>Luaţi o umbrelă!</item>
+        <item>E burniță, nu utaţi să luaţi umbrela!</item>
+        <item>E lapoviţă, nu utaţi să luaţi umbrela!</item>
+        <item>Ninge puternic!</item>
+        <item>O să ningă azi, nu uitaţi să îmbrăcaţi căciula şi eşarfa</item>
+        <item>Ninge puternic, nu uitaţi să îmbrăcaţi căciula şi eşarfa!</item>
+        <item>Ninge slab, nu uitaţi să îmbrăcaţi căciula şi eşarfa!</item>
+        <item>Ninge, nu uitaţi să îmbrăcaţi căciula şi eşarfa!</item>
+        <item>E furtună puternică de nisip, nu uitaţi să puneţi o mască pe faţă</item>
+        <item>E furtună puternică de nisip, nu uitaţi să puneţi o mască pe faţă</item>
+        <item>Aici e furtună puternică de nisip, nu uitaţi să puneţi o mască pe faţă</item>
+        <item>Aici e furtună puternică de nisip, nu uitaţi să puneţi o mască pe faţă</item>
+        <item>Nu vedeţi grindină în fiecare zi! Păşiţi atent!</item>
+        <item>Calitatea aerului este proastă, nu uitaţi să puneţi o mască pe faţă</item>
+        <item>Calitatea aerului este proastă, încercați să stați în interior</item>
+    </string-array>
+    <string-array name="weather_sms_addons">
+        <item>Datele meteo pentru @: $</item>
+        <item>Temperatura medie: %</item>
+        <item>Nu utaţi să luaţi umbrela!</item>
+        <item>Încercați să rămâneţi uscat! :)</item>
+        <item>Dacă uscaţi haine afară, nu uitaţi să le luaţi în interior mai târziu! :)</item>
+        <item>Evitați să conduceți dacă este posibil.</item>
+        <item>Conduceţi cu prudenţă!</item>
+        <item>Fiţi atent, e lunecos</item>
+        <item>Nu vă grăbiți. Fiţi atent acolo.</item>
+        <item>Fiţi atent afară</item>
+        <item>Ieşiţi doar dacă aveţi nevoie urgent</item>
+        <item>Purtaţi protecție solară și luaţi ochelarii de soare</item>
+        <item>Purtaţi protecție solară și luaţi ochelarii de soare</item>
+        <item>E vânt, nu uitaţi să luaţi un sacou</item>
+        <item>Calitatea aerului este proastă, nu uitaţi să purtaţi o mască pe faţă</item>
+        <item>Nu uitaţi să luaţi un sacou</item>
+        <item>Nu uitaţi să purtaţi o mască pe faţă :)</item>
+        <item>Nu uitaţi să purtaţi o căciulă şi mănuşi</item>
+        <item>E cald afară!</item>
+        <item>E cald afară!</item>
+        <item>Strânge laolaltă!</item>
+        <item>Se apropie vreme rece…</item>
+        <item>Strânge laolaltă!</item>
+        <item>Purtaţi urechi de iarnă, dacă aveţi! :)</item>
+        <item>Ieşiţi pentru a alerga!</item>
+        <item>Ieşiţi pentru a alerga și pentru a lua puţin soare! :)</item>
+        <item>Este o zi bună pentru uscarea hainelor!</item>
+        <item>Se răceşte, nu uitaţi să îmbrăcaţi un sacou!</item>
+    </string-array>
+    <string-array name="weather_info_uv">
+        <item>0</item>
+        <item>Indisponibil</item>
+        <item>6</item>
+        <item>Utilizaţi protecție solară. Purtaţi pălărie și ochelari de soare atunci când sunteţi în aer liber.</item>
+        <item>7</item>
+        <item>Utilizaţi protecție solară. Purtaţi pălărie și ochelari de soare atunci când sunteţi în aer liber.</item>
+        <item>8</item>
+        <item>Utilizaţi protecție solară. Purtaţi pălărie și ochelari de soare atunci când sunteţi în aer liber.</item>
+        <item>9</item>
+        <item>Evitati soarele, dacă este posibil. Folosiți protecție solară, dacă aveți nevoie să ieșiţi!</item>
+        <item>10</item>
+        <item>Evitati soarele, dacă este posibil. Folosiți protecție solară, dacă aveți nevoie să ieșiţi!</item>
+    </string-array>
+    <string-array name="weather_info_dress">
+        <item>0</item>
+        <item>Indisponibil</item>
+        <item>11</item>
+        <item>Sacou subţire</item>
+        <item>12</item>
+        <item>Sacou subţire</item>
+        <item>13</item>
+        <item>Îmbrăcăminte de vară</item>
+        <item>14</item>
+        <item>Îmbrăcăminte de vară</item>
+        <item>15</item>
+        <item>Sacou subţire</item>
+        <item>16</item>
+        <item>Nu uitaţi sa va îmbrăcaţi mai bine!</item>
+        <item>17</item>
+        <item>Luaţi un sacou!</item>
+        <item>18</item>
+        <item>Laolaltă!</item>
+        <item>19</item>
+        <item>Laolaltă!</item>
+    </string-array>
+    <string-array name="weather_info_msport">
+        <item>0</item>
+        <item>Indisponibil</item>
+        <item>1</item>
+        <item>Este o zi bună pentru exerciții de dimineață!</item>
+        <item>2</item>
+        <item>Îmbrăcaţi-vă mai bine!</item>
+        <item>3</item>
+        <item>Poate să se răcească afară. Îmbrăcaţi-vă mai bine!</item>
+        <item>4</item>
+        <item>Faceţi exerciţii în interior!</item>
+    </string-array>
+    <string-array name="weather_info_comfort">
+        <item>0</item>
+        <item>Indisponibil</item>
+        <item>20</item>
+        <item>Temperatura va fi stabilă</item>
+        <item>21</item>
+        <item>Rece și confortabil</item>
+        <item>22</item>
+        <item>Temperatura va fi schimbătoare</item>
+        <item>23</item>
+        <item>Cer senin şi temperaturi neconfortabile</item>
+        <item>24</item>
+        <item>Cald și umed! :(</item>
+    </string-array>
+    <string-array name="weather_info_wcar">
+        <item>0</item>
+        <item>Indisponibil</item>
+        <item>1</item>
+        <item>Este o zi bună pentru a spăla maşina!</item>
+        <item>2</item>
+        <item>Este o zi bună pentru a spăla maşina!</item>
+        <item>3</item>
+        <item>O să plouă, deci nu este o zi bună pentru a spăla maşina</item>
+        <item>25</item>
+        <item>O să plouă, deci nu este o zi bună pentru a spăla maşina</item>
+        <item>26</item>
+        <item>Se prognozează o furtună de nisip, deci nu este o zi bună pentru a spăla maşina</item>
+        <item>27</item>
+        <item>O să ningă, deci nu este o zi bună pentru a spăla maşina</item>
+        <item>4</item>
+        <item>Nu este o zi bună pentru a spăla maşina</item>
+    </string-array>
+    <string-array name="weather_info_hung">
+        <item>0</item>
+        <item>Indisponibil</item>
+        <item>28</item>
+        <item>Atârnaţi hainele să se usuce după amiază</item>
+        <item>29</item>
+        <item>Atârnaţi hainele să se usuce</item>
+        <item>30</item>
+        <item>Noros, dar cu temperaturi ridicate, hainele se vor usca oricum</item>
+        <item>1</item>
+        <item>Vremea este potrivită pentru uscarea hainelor</item>
+        <item>3</item>
+        <item>Ploaie intermitentă pe parcursul zilei</item>
+        <item>5</item>
+        <item>Condiții bune de uscare</item>
+        <item>4</item>
+        <item>Uscaţi hainele în interior</item>
+        <item>31</item>
+        <item>Uscaţi hainele în interior</item>
+    </string-array>
+    <string-array name="weather_info_travel">
+        <item>0</item>
+        <item>Indisponibil</item>
+        <item>32</item>
+        <item>Clar și însorit, cu temperaturi bune</item>
+        <item>2</item>
+        <item>Temperaturi blânde și stabile</item>
+        <item>1</item>
+        <item>Temperaturi blânde și stabile</item>
+        <item>3</item>
+        <item>Azi vremea va fi schimbătoare</item>
+        <item>33</item>
+        <item>Azi vremea va fi schimbătoare</item>
+        <item>34</item>
+        <item>Cer senin şi vânt slab</item>
+    </string-array>
+    <string-array name="weather_info_fl">
+        <item></item>
+        <item>Îmbăcaţi-vă!</item>
+        <item>Briză</item>
+        <item>Confortabil</item>
+        <item>N</item>
+        <item>Indisponibil</item>
+    </string-array>
+</resources>

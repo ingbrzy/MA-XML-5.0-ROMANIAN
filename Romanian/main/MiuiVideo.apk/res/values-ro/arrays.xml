@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="channel_tabs">
+        <item>Populare</item>
+        <item>Clasament</item>
+        <item>Cele mai noi</item>
+    </string-array>
+    <string-array name="channel_featured_tabs">
+        <item>Alese</item>
+        <item>Clasament</item>
+        <item>Cele mai noi</item>
+    </string-array>
+    <string-array name="home_tabs">
+        <item>On-line</item>
+        <item>Locale</item>
+    </string-array>
+    <string-array name="series_detail_tabs">
+        <item>Episod</item>
+        <item>Rezumat</item>
+    </string-array>
+</resources>

@@ -1,0 +1,23 @@
+<feature>
+    <boolean>FALSE</boolean>
+    <title>
+În cazul în care telefonul de pe care încercaţi să importaţi contactele nu are Bluetooth, urmați pașii descriși mai jos: 
+
+1. Introduceți cardul SIM în telefonul de pe care importați contactele
+
+2. Deschideţi Contacte
+
+3. Copiaţi contactele pe cardul SIM
+
+4. Scoateţi cardul SIM şi introduceţi-l în acest dispozitivul Xiaomi
+
+Pe dispozitivul Xiaomi: 
+
+1. Deschideţi Contacte 
+
+2. Accesaţi Meniu > Import/export > Import de pe stocare 
+
+3. Urmați instrucțiunile de pe ecran
+    </title>
+    <header></header>
+</feature>

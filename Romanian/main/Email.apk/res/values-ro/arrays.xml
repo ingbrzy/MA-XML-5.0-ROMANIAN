@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="general_preference_text_zoom_summary_array">
+        <item>Text foarte mic</item>
+        <item>Text mic</item>
+        <item>Text prestabilit</item>
+        <item>Text mare</item>
+        <item>Text foarte mare</item>
+    </string-array>
+    <string-array name="general_preference_auto_advance_summary_array">
+        <item>"Afișaţi mesajele noi după ce ștergeți un mesaj"</item>
+        <item>"Afișaţi mesajele vechi după ce ștergeți un mesaj"</item>
+        <item>"Afișaţi lista de mesaje după ce ștergeți un mesaj"</item>
+    </string-array>
+</resources>

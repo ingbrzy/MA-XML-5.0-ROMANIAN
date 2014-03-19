@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--Decompiled by BART-R (BurgerZ <az.burgerz@gmail.com)>--><resources>
+<resources>
     <plurals name="Nminutes">
         <item quantity="other">%d (de) minute</item>
         <item quantity="one">1 minut</item>

@@ -1,0 +1,280 @@
+{
+    "quicklinks":[
+        {
+            "title":"Google",
+            "url":"http://www.google.com/",
+            "thumbnail":"thumb_google.png",
+            "logobg":"bg01.9.png",
+            "nightModeMask": "night.9.png",
+            "favicon":"",
+	    "displayName": "Google",
+	    "isDelete": true,
+	    "movable": true,
+	    "position": 0
+        },
+        {
+            "title":"Picasa",
+            "url":"http://picasaweb.google.com/",
+            "thumbnail":"thumb_picasa.png",
+            "logobg":"bg01.9.png",
+            "nightModeMask": "night.9.png",
+            "favicon":"",
+	    "displayName": "Picasa",
+	    "isDelete": true,
+	    "movable": true,
+	    "position": 1
+        },
+        {
+            "title":"Yahoo!",
+            "url":"http://www.yahoo.com/",
+            "thumbnail":"thumb_yahoo.png",
+            "logobg":"bg01.9.png",
+            "nightModeMask": "night.9.png",
+            "favicon":"",
+	    "displayName": "Yahoo!",
+	    "isDelete": true,
+	    "movable": true,
+	    "position": 2
+        },
+        {
+            "title":"ITMoldova",
+            "url":"http://itmoldova.com/",
+            "thumbnail":"thumb_itmd.png",
+            "logobg":"bg01.9.png",
+            "nightModeMask": "night.9.png",
+            "favicon":"",
+	    "displayName": "ITMoldova",
+	    "isDelete": true,
+	    "movable": true,
+	    "position": 3
+        },
+        {
+            "title":"Twitter",
+            "url":"http://twitter.com/",
+            "thumbnail":"thumb_twitter.png",
+            "logobg":"bg01.9.png",
+            "nightModeMask": "night.9.png",
+            "favicon":"",
+	    "displayName": "Twitter",
+	    "isDelete": true,
+	    "movable": true,
+	    "position": 4
+        },
+        {
+            "title":"Facebook",
+            "url":"http://www.facebook.com/",
+            "thumbnail":"thumb_facebook.png",
+            "logobg":"bg01.9.png",
+            "nightModeMask": "night.9.png",
+            "favicon":"",
+	    "displayName": "Facebook",
+	    "isDelete": true,
+	    "movable": true,
+	    "position": 5
+        },
+        {
+            "title":"Wikipedia",
+            "url":"http://www.wikipedia.org/",
+            "thumbnail":"thumb_wikipedia.png",
+            "logobg":"bg01.9.png",
+            "nightModeMask": "night.9.png",
+            "favicon":"",
+	    "displayName": "Wikipedia",
+	    "isDelete": true,
+	    "movable": true,
+	    "position": 6
+        },
+        {
+            "title":"Jurnal.md",
+            "url":"http://jurnal.md/",
+            "thumbnail":"thumb_jurnal.png",
+            "logobg":"bg01.9.png",
+            "nightModeMask": "night.9.png",
+            "favicon":"",
+	    "displayName": "Jurnal.md",
+	    "isDelete": true,
+	    "movable": true,
+	    "position": 7
+        },
+        {
+            "title":"Orange Moldova",
+            "url":"http://orange.md/",
+            "thumbnail":"thumb_orange.png",
+            "logobg":"bg01.9.png",
+            "nightModeMask": "night.9.png",
+            "favicon":"",
+	    "displayName": "Orange Moldova",
+	    "isDelete": true,
+	    "movable": true,
+	    "position": 8
+        },
+        {
+            "title":"Moldcell",
+            "url":"http://moldcell.md/",
+            "thumbnail":"thumb_mdcell.png",
+            "logobg":"bg01.9.png",
+            "nightModeMask": "night.9.png",
+            "favicon":"",
+	    "displayName": "Moldcell",
+	    "isDelete": true,
+	    "movable": true,
+	    "position": 9
+        },
+        {
+            "title":"Unite",
+            "url":"http://www.unite.md/",
+            "thumbnail":"thumb_unite.png",
+            "logobg":"bg01.9.png",
+            "nightModeMask": "night.9.png",
+            "favicon":"",
+	    "displayName": "Unite",
+	    "isDelete": true,
+	    "movable": true,
+	    "position": 10
+        },
+        {
+            "title":"MIUI BBS",
+            "url":"http://en.miui.com",
+            "thumbnail":"thumb_miui.png",
+            "logobg":"bg01.9.png",
+            "nightModeMask": "night.9.png",
+            "favicon":"",
+	    "displayName": "MIUI BBS",
+	    "isDelete": true,
+	    "movable": true,
+	    "position": 11
+        },
+        {
+            "title":"Weather Channel",
+            "url":"http://www.weather.com/",
+            "thumbnail":"thumb_weatherchannel.png",
+            "logobg":"bg01.9.png",
+            "nightModeMask": "night.9.png",
+            "favicon":"",
+	    "displayName": "Weather Channel",
+	    "isDelete": true,
+	    "movable": true,
+	    "position": 12
+        }
+    ],
+"topquicklinks": [
+                {
+            "title":"Google",
+            "url":"http://www.google.com/",
+            "thumbnail":"thumb_google.png",
+            "logobg":"bg01.9.png",
+            "nightModeMask": "night.9.png",
+            "favicon":"",
+	    "displayName": "Google"
+        },
+        {
+            "title":"Picasa",
+            "url":"http://picasaweb.google.com/",
+            "thumbnail":"thumb_picasa.png",
+            "logobg":"bg01.9.png",
+            "nightModeMask": "night.9.png",
+            "favicon":"",
+	    "displayName": "Picasa"
+        },
+        {
+            "title":"Yahoo!",
+            "url":"http://www.yahoo.com/",
+            "thumbnail":"thumb_yahoo.png",
+            "logobg":"bg01.9.png",
+            "nightModeMask": "night.9.png",
+            "favicon":"",
+	    "displayName": "Yahoo!"
+        },
+        {
+            "title":"ITMoldova",
+            "url":"http://itmoldova.com/",
+            "thumbnail":"thumb_itmd.png",
+            "logobg":"bg01.9.png",
+            "nightModeMask": "night.9.png",
+            "favicon":"",
+	    "displayName": "ITMoldova"
+        },
+        {
+            "title":"Twitter",
+            "url":"http://twitter.com/",
+            "thumbnail":"thumb_twitter.png",
+            "logobg":"bg01.9.png",
+            "nightModeMask": "night.9.png",
+            "favicon":"",
+	    "displayName": "Twitter"
+        },
+        {
+            "title":"Facebook",
+            "url":"http://www.facebook.com/",
+            "thumbnail":"thumb_facebook.png",
+            "logobg":"bg01.9.png",
+            "nightModeMask": "night.9.png",
+            "favicon":"",
+	    "displayName": "Facebook"
+        },
+        {
+            "title":"Wikipedia",
+            "url":"http://www.wikipedia.org/",
+            "thumbnail":"thumb_wikipedia.png",
+            "logobg":"bg01.9.png",
+            "nightModeMask": "night.9.png",
+            "favicon":"",
+	    "displayName": "Wikipedia"
+        },
+        {
+            "title":"Jurnal.md",
+            "url":"http://jurnal.md/",
+            "thumbnail":"thumb_jurnal.png",
+            "logobg":"bg01.9.png",
+            "nightModeMask": "night.9.png",
+            "favicon":"",
+	    "displayName": "Jurnal.md"
+        },
+
+        {
+            "title":"Orange Moldova",
+            "url":"http://orange.md/",
+            "thumbnail":"thumb_orange.png",
+            "logobg":"bg01.9.png",
+            "nightModeMask": "night.9.png",
+            "favicon":"",
+	    "displayName": "Orange Moldova"
+        },
+        {
+            "title":"Moldcell",
+            "url":"http://moldcell.md/",
+            "thumbnail":"thumb_mdcell.png",
+            "logobg":"bg01.9.png",
+            "nightModeMask": "night.9.png",
+            "favicon":"",
+	    "displayName": "Moldcell"
+        },
+        {
+            "title":"Unite",
+            "url":"http://www.unite.md/",
+            "thumbnail":"thumb_unite.png",
+            "logobg":"bg01.9.png",
+            "nightModeMask": "night.9.png",
+            "favicon":"",
+	    "displayName": "Unite"
+        },
+        {
+            "title":"MIUI BBS",
+            "url":"http://en.miui.com",
+            "thumbnail":"thumb_miui.png",
+            "logobg":"bg01.9.png",
+            "nightModeMask": "night.9.png",
+            "favicon":"",
+	    "displayName": "MIUI BBS"
+        },
+        {
+            "title":"Weather Channel",
+            "url":"http://www.weather.com/",
+            "thumbnail":"thumb_weatherchannel.png",
+            "logobg":"bg01.9.png",
+            "nightModeMask": "night.9.png",
+            "favicon":"",
+	    "displayName": "Weather Channel"
+        }
+    ]
+}

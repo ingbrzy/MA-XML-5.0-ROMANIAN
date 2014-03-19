@@ -1,10 +1,541 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="timezone_filters">
+        <item>America</item>
+        <item>Europa</item>
+        <item>Africa</item>
+        <item>Asia</item>
+        <item>Australia</item>
+        <item>Pacific</item>
+        <item>Toate</item>
+    </string-array>
+    <string-array name="screen_timeout_entries">
+        <item>15 secunde</item>
+        <item>30 de secunde</item>
+        <item>1 minut</item>
+        <item>2 minute</item>
+        <item>5 minute</item>
+        <item>10 minute</item>
+        <item>30 de minute</item>
+    </string-array>
+    <string-array name="dream_timeout_entries">
+        <item>Niciodată</item>
+        <item>15 secunde</item>
+        <item>30 de secunde</item>
+        <item>1 minut</item>
+        <item>2 minute</item>
+        <item>5 minute</item>
+        <item>10 minute</item>
+        <item>30 de minute</item>
+    </string-array>
+    <string-array name="lock_after_timeout_entries">
+        <item>Imediat</item>
+        <item>5 secunde</item>
+        <item>15 secunde</item>
+        <item>30 de secunde</item>
+        <item>1 minut</item>
+        <item>2 minute</item>
+        <item>5 minute</item>
+        <item>10 minute</item>
+        <item>30 de minute</item>
+    </string-array>
+    <string-array name="entries_font_size">
+        <item>Mică</item>
+        <item>Normală</item>
+        <item>Mare</item>
+        <item>Enorm</item>
+    </string-array>
+    <string-array name="tts_rate_entries">
+        <item>Foarte încet</item>
+        <item>Încet</item>
+        <item>Normal</item>
+        <item>Rapid</item>
+        <item>Foarte rapid</item>
+    </string-array>
+    <string-array name="tts_pitch_entries">
+        <item>Foarte scăzut</item>
+        <item>Redusă</item>
+        <item>Normală</item>
+        <item>Ridicată</item>
+        <item>Foarte ridicat</item>
+    </string-array>
+    <string-array name="wifi_status">
+        <item></item>
+        <item>În curs de scanare…</item>
+        <item>Se conectează…</item>
+        <item>În curs de autentificare…</item>
+        <item>Se obţine adresa IP…</item>
+        <item>Conectat</item>
+        <item>Suspendat</item>
+        <item>În curs de deconectare…</item>
+        <item>Deconectat</item>
+        <item>Nereuşit</item>
+        <item>Blocat</item>
+        <item>Evitarea temporară a conexiunii slabe</item>
+    </string-array>
+    <string-array name="wifi_status_with_ssid">
+        <item></item>
+        <item>În curs de scanare…</item>
+        <item>Se conectează la %1$s…</item>
+        <item>Se autentifică cu %1$s…</item>
+        <item>Se obţine adresa IP de la %1$s…</item>
+        <item>Conectat la %1$s</item>
+        <item>Suspendată</item>
+        <item>În curs de deconectare de la %1$s…</item>
+        <item>Deconectată</item>
+        <item>Nereuşit</item>
+        <item>Blocat</item>
+        <item>Evitarea temporară a conexiunii slabe</item>
+    </string-array>
+    <string-array name="wifi_eap_method">
+        <item>PEAP</item>
+        <item>TLS</item>
+        <item>TTLS</item>
+        <item>PWD</item>
+    </string-array>
+    <string-array name="wifi_p2p_wps_setup">
+        <item>Buton WPS</item>
+        <item>Codul PIN de la disp. pereche</item>
+        <item>PIN de la ac. disp.</item>
+    </string-array>
+    <string-array name="wifi_p2p_status">
+        <item>Conectat</item>
+        <item>Invitat(ă)</item>
+        <item>Nereuşită</item>
+        <item>Disponibil</item>
+        <item>Fără acoperire</item>
+    </string-array>
+    <string-array name="bluetooth_visibility_timeout_entries">
+        <item>2 minute</item>
+        <item>5 minute</item>
+        <item>1 oră</item>
+        <item>Fără timp limită</item>
+    </string-array>
+    <string-array name="wifi_signal">
+        <item>Slab</item>
+        <item>Corect</item>
+        <item>Bun</item>
+        <item>Excelent</item>
+    </string-array>
+    <string-array name="wifi_sleep_policy_entries">
+        <item>Întotdeauna</item>
+        <item>Doar atunci când este conectat</item>
+        <item>Niciodată (măreşte utilizarea datelor)</item>
+    </string-array>
+    <string-array name="wifi_sleep_policy_entries_wifi_only">
+        <item>Întotdeauna</item>
+        <item>Doar atunci când este conectat</item>
+        <item>Niciodată</item>
+    </string-array>
+    <string-array name="network_use_entry">
+        <item>Doar  în reţeaua de acasă</item>
+        <item>Acasă + Roaming</item>
+    </string-array>
+    <string-array name="wifi_frequency_band_entries">
+        <item>Automat</item>
+        <item>Numai pe 5 GHz</item>
+        <item>Numai pe 2,4 GHz</item>
+    </string-array>
+    <string-array name="usage_stats_display_order_types">
+        <item>Durată de utilizare</item>
+        <item>Numărul lansărilor</item>
+        <item>Numele aplicaţiei</item>
+    </string-array>
+    <string-array name="wifi_eap_entries">
+        <item>PEAP</item>
+        <item>TLS</item>
+        <item>TTLS</item>
+        <item>PWD</item>
+    </string-array>
+    <string-array name="wifi_phase2_entries">
+        <item>Niciunul</item>
+        <item>PAP</item>
+        <item>MSCHAP</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </string-array>
+    <string-array name="wifi_ip_settings">
+        <item>DHCP</item>
+        <item>Static</item>
+    </string-array>
+    <string-array name="wifi_proxy_settings">
+        <item>Niciunul</item>
+        <item>Manual</item>
+    </string-array>
+    <string-array name="emergency_tone_entries">
+        <item>Dezactivate</item>
+        <item>Alarmă</item>
+        <item>Vibrare</item>
+    </string-array>
+    <string-array name="apn_auth_entries">
+        <item>Niciunul</item>
+        <item>PAP</item>
+        <item>CHAP</item>
+        <item>PAP sau CHAP</item>
+    </string-array>
+    <string-array name="apn_protocol_entries">
+        <item>IPv4</item>
+        <item>IPv6</item>
+        <item>IPv4/IPv6</item>
+    </string-array>
+    <string-array name="bearer_entries">
+        <item>LTE</item>
+        <item>eHRPD</item>
+        <item>Nespecificat</item>
+    </string-array>
+    <string-array name="app_install_location_entries">
+        <item>Spaţiu de sistem intern</item>
+        <item>Card SD</item>
+        <item>Permiteţi sistemului să decidă</item>
+    </string-array>
+    <string-array name="long_press_timeout_selector_titles">
+        <item>Scurtă</item>
+        <item>Medie</item>
+        <item>Lungă</item>
+    </string-array>
+    <string-array name="hdcp_checking_titles">
+        <item>Nu verificaţi niciodată</item>
+        <item>Verificaţi doar pentru conţinut DRM</item>
+        <item>Verificaţi întotdeauna</item>
+    </string-array>
+    <string-array name="hdcp_checking_summaries">
+        <item>Nu utilizaţi niciodată verificarea HDCP</item>
+        <item>Utilizaţi verificarea HDCP numai pentru conţinut DRM</item>
+        <item>Utilizaţi întotdeauna verificarea HDCP</item>
+    </string-array>
+    <string-array name="window_animation_scale_entries">
+        <item>Animaţie dezactivată</item>
+        <item>Animaţie la scara 0,5x</item>
+        <item>Animaţie la scara 1x</item>
+        <item>Animaţie la scara 1,5x</item>
+        <item>Animaţie la scara 2x</item>
+        <item>Animaţie la scara 5x</item>
+        <item>Animaţie la scara 10x</item>
+    </string-array>
+    <string-array name="transition_animation_scale_entries">
+        <item>Animaţie dezactivată</item>
+        <item>Animaţie la scara 0,5x</item>
+        <item>Animaţie la scara 1x</item>
+        <item>Animaţie la scara 1,5x</item>
+        <item>Animaţie la scara 2x</item>
+        <item>Animaţie la scara 5x</item>
+        <item>Animaţie la scara 10x</item>
+    </string-array>
+    <string-array name="animator_duration_scale_entries">
+        <item>Animaţie dezactivată</item>
+        <item>Animaţie la scara 0,5x</item>
+        <item>Animaţie la scara 1x</item>
+        <item>Animaţie la scara 1,5x</item>
+        <item>Animaţie la scara 2x</item>
+        <item>Animaţie la scara 5x</item>
+        <item>Animaţie la scara 10x</item>
+    </string-array>
+    <string-array name="app_process_limit_entries">
+        <item>Limita standard</item>
+        <item>Nu există procese de fundal</item>
+        <item>Cel mult 1 proces</item>
+        <item>Cel mult 2 procese</item>
+        <item>Cel mult 3 procese</item>
+        <item>Cel mult 4 procese</item>
+    </string-array>
+    <string-array name="vpn_types_long">
+        <item>PPTP VPN</item>
+        <item>L2TP/IPSec VPN cu chei predistribuite</item>
+        <item>L2TP/IPSec VPN cu certificate</item>
+        <item>IPSec VPN cu chei predistribuite şi autentificare Xauth</item>
+        <item>IPSec VPN cu certificate şi autentificare Xauth</item>
+        <item>IPSec VPN cu certificate şi autentificare hibridă</item>
+    </string-array>
+    <string-array name="vpn_states">
+        <item>Deconectată</item>
+        <item>Se iniţializează…</item>
+        <item>Se conectează…</item>
+        <item>Conectată</item>
+        <item>Timp limită</item>
+        <item>Nereuşită</item>
+    </string-array>
+    <string-array name="gemini_sim_info_number_display_format_entries">
+        <item>Primele 4 cifre</item>
+        <item>Ultimele 4 cifre</item>
+        <item>Nu afişaţi</item>
+    </string-array>
+    <string-array name="gemini_sim_roaming_reminder_entries">
+        <item>Odată</item>
+        <item>Mereu</item>
+        <item>Niciodată</item>
+    </string-array>
+    <string-array name="gsm_umts_network_preferences_choices">
+        <item>GSM/WCDMA (mod automat)</item>
+        <item>Numai WCDMA</item>
+        <item>Numai GSM</item>
+    </string-array>
+    <string-array name="auto_time_entries">
+        <item>Utilizaţi ora furnizată de reţea</item>
+        <item>Utilizează ora furnizată de GPS</item>
+        <item>Dezactivat</item>
+    </string-array>
+    <string-array name="sim_slot">
+        <item>(nespecificat)</item>
+        <item>Slot SIM 1</item>
+        <item>Slot SIM 2</item>
+    </string-array>
+    <string-array name="wifi_hotspot_disable_policy_entries">
+        <item>Mereu</item>
+        <item>Opriţi când este inactiv timp de 5 minute</item>
+        <item>Opriţi când este inactiv timp de 10 minute</item>
+    </string-array>
+    <string-array name="battery_indicator_style_entries">
+        <item>Grafic</item>
+        <item>Procentaj</item>
+        <item>Bară sus</item>
+    </string-array>
+    <string-array name="core_nums_strs">
+        <item>Singur</item>
+        <item>Dual</item>
+    </string-array>
+        <string-array name="tethered_ipv6_entries">
+        <item>IPv4</item>
+        <item>IPv4 şi IPv6</item>
+    </string-array>
+    <string-array name="overlay_display_devices_entries">
+        <item>Niciuna</item>
+        <item>720x480 mdpi</item>
+        <item>1280x720 tvdpi</item>
+        <item>1920x1080 xhdpi</item>
+        <item>1280x720 tvdpi şi 1920x1080 xhdpi</item>
+    </string-array>
+    <string-array name="enable_opengl_traces_entries">
+        <item>Niciuna</item>
+        <item>Logcat</item>
+        <item>Systrace (imagini)</item>
+        <item>Apelaţi stiva pentru glGetError</item>
+    </string-array>
+    <string-array name="security_settings_premium_sms_values">
+        <item>Întrebaţi</item>
+        <item>Nu permiteţi niciodată</item>
+        <item>Permiteţi întotdeauna</item>
+    </string-array>
+    <string-array name="haptic_feedback_level_entries">
+        <item>Slabă</item>
+        <item>Medie</item>
+        <item>Puternică</item>
+    </string-array>
+    <string-array name="media_feedback_level_entries">
+        <item>Puternică</item>
+        <item>Medie</item>
+        <item>Slabă</item>
+    </string-array>
+    <string-array name="hdmi_video_mode_entries">
+        <item>Ecran complet</item>
+        <item>Încadrare</item>
+        <item>Dimensiune originală</item>
+    </string-array>
+    <string-array name="wifi_ap_wps_mode_entries">
+        <item>Apăsare buton</item>
+        <item>PIN de la client</item>
+    </string-array>
+    <string-array name="usb_connection_mode_entries">
+        <item>Întreabă la conectare</item>
+        <item>Doar încărcare</item>
+        <item>Montare card SD</item>
+    </string-array>
     <string-array name="screen_key_long_press_action">
-        <item>None</item>
-        <item>Launch Recent Panel</item>
-        <item>Launch Voice Assistant</item>
-        <item>Launch Google Now</item>
-        <item>Close current App</item>
+        <item>Niciuna</item>
+        <item>Afişarea aplicaţiilor recente</item>
+        <item>Lansare Asistent</item>
+        <item>Lansare Google now</item>
+        <item>Închiderea aplicaţie curente</item>
+    </string-array>
+    <string-array name="screen_key_long_press_timeout">
+        <item>0.5 secunde</item>
+        <item>1 secundă</item>
+        <item>1.5 secunde</item>
+        <item>2 secunde</item>
+    </string-array>
+    <string-array name="button_light_timeout_entries">
+        <item>1 secundă</item>
+        <item>2 secunde</item>
+        <item>5 secunde</item>
+        <item>10 secunde</item>
+        <item>20 secunde</item>
+        <item>Mereu</item>
+    </string-array>
+    <string-array name="led_freq_entries">
+        <item>2 secunde</item>
+        <item>3 secunde</item>
+        <item>4 secunde</item>
+        <item>5 secunde</item>
+        <item>6 secunde</item>
+        <item>7 secunde</item>
+        <item>8 secunde</item>
+        <item>9 secunde</item>
+    </string-array>
+    <string-array name="mi1_led_color_entries">
+        <item>Albastru</item>
+        <item>Roşu</item>
+        <item>Verde</item>
+        <item>Roz</item>
+        <item>Violet</item>
+        <item>Purpuriu</item>
+    </string-array>
+    <string-array name="led_color_entries">
+        <item>Albastru</item>
+        <item>Roşu</item>
+        <item>Galben</item>
+        <item>Verde</item>
+        <item>Cyan</item>
+        <item>Alb</item>
+        <item>Violet</item>
+    </string-array>
+    <string-array name="wfd_status">
+        <item>Dispozitiv conectat, creare sesiune\u2026</item>
+        <item>Sesiune creată</item>
+        <item>Terminare sesiune\u2026</item>
+        <item>Sesiune eşuată</item>
+        <item>Sesiune expirată, reîncercare\u2026</item>
+        <item>Dispozitiv conectat</item>
+    </string-array>
+    <string-array name="power_mode_entries">
+        <item>Performanţă</item>
+        <item>Normal</item>
+        <item>Economisire</item>
+    </string-array>
+    <string-array name="msd_pc_system">
+        <item>Windows XP şi versiuni Windows mai vechi</item>
+        <item>Windows Vista şi versiuni Windows mai noi</item>
+        <item>Mac OS</item>
+        <item>Linux</item>
+    </string-array>
+    <string-array name="msd_pc_system_install_start_summary">
+        <item>"Pentru Windows XP şi versiuni Windows mai vechi,
+driver-ul trebuie să fie instalat manual."</item>
+        <item>"Pentru Windows Vista şi versiuni Windows mai noi,
+player-ul muzical v-a apărea pe computer-ul dvs. automat."</item>
+        <item>"Pentru sistemul de operare Mac OS,
+driver-ul trebuie să fie instalat manual."</item>
+        <item></item>
+    </string-array>
+    <string-array name="msd_pc_system_install_step_1_summary">
+        <item>"(Ignoraţi expertul de configurare)
+La conectare, XIAOMI va apărea ca dispozitiv de stocare.
+Deschideţi şi selectaţi Setup.exe pentru instalare."</item>
+        <item></item>
+        <item>"La conectare XIAOMI va apărea ca dispozitiv de stocare pe desktop.
+Deschideţi şi selectaţi AndroidFileTransfer.dmg pentru instalare."</item>
+        <item></item>
+    </string-array>
+    <string-array name="msd_pc_system_install_step_2_summary">
+        <item>"2. MI 2 va apărea ca dispozitiv de stocare 
+după conectarea la computer."</item>
+        <item></item>
+        <item>"Transferaţi fişiere ca pe un dispozitiv de stocare extern."</item>
+        <item></item>
+    </string-array>
+    <string-array name="msd_pc_system_install_finish_summary">
+        <item>"După ce instalaţi acest driver
+MI 2 va apărea ca dispozitiv de stocare după conectarea la computer"</item>
+        <item>"Pentru Windows Vista şi versiuni Windows mai noi,
+player-ul muzical MI 2 v-a apărea pe computer-ul dvs. automat."</item>
+        <item>"Când instalaţi acest driver
+telefonul se va deschide automat după conectarea la computer"</item>
+        <item></item>
+    </string-array>
+    <string-array name="screen_color_title">
+        <item>Caldă</item>
+        <item>Standardă</item>
+        <item>Rece</item>
+    </string-array>
+    <string-array name="screen_saturation_title">
+        <item>Strălucitor</item>
+        <item>Standard</item>
+    </string-array>
+    <string-array name="perm_hips_action">
+        <item>Permiteţi</item>
+        <item>Întreabă</item>
+        <item>Refuzaţi</item>
+    </string-array>
+    <string-array name="startup_hips_action">
+        <item>Permiteţi</item>
+        <item>Refuzaţi</item>
+    </string-array>
+    <string-array name="entries_color_calibration">
+        <item>sRGB</item>
+        <item>Nativ</item>
+    </string-array>
+    <string-array name="wifi_connect_type_entries">
+        <item>Conectare automată</item>
+        <item>Conectare manuală</item>
+        <item>Întreabă mereu</item>
+    </string-array>
+    <string-array name="change_security_lock_picker">
+        <item>Deblocare facială</item>
+        <item>Model</item>
+        <item>PIN</item>
+        <item>Parolă</item>
+    </string-array>
+    <string-array name="phone_call_noise_suppression_title">
+        <item>Un microfon</item>
+        <item>Microfon dublu</item>
+    </string-array>
+   <string-array name="slideshow_time_entries" >
+        <item>5 minute</item>
+        <item>15 minute</item>
+        <item>30 de minute</item>
+        <item>O oră</item>
+        <item>Nelimitat</item>
+    </string-array>
+    <string-array name="preferred_app_entries">
+        <item>Lansator</item>
+        <item>Apelare</item>
+        <item>Mesagerie</item>
+        <item>Browser</item>
+        <item>Cameră</item>
+        <item>Galerie</item>
+        <item>Muzică</item>
+        <item>E-mail</item>
+    </string-array>
+    <string-array name="power_dialog_auto_clean_memory_items">
+        <item>După 1 minut</item>
+        <item>După 5 minute</item>
+        <item>După 10 minute</item>
+        <item>Niciodată</item>
+    </string-array>
+    <string-array name="power_dialog_sleep_items">
+        <item>15 secunde</item>
+        <item>30 secunde</item>
+        <item>1 minut</item>
+        <item>2 minute</item>
+        <item>5 minute</item>
+        <item>10 minute</item>
+        <item>Niciodată</item>
+    </string-array>
+    <string-array name="power_dialog_cpu_state_items">
+        <item>Performanţă</item>
+        <item>Echilibrat</item>
+        <item>Economisire acumulator</item>
+    </string-array>
+    <string-array name="power_dialog_vibration_items">
+        <item>Fără vibrare</item>
+        <item>Vibrare doar în modul silenţios</item>
+        <item>Vibrează mereu</item>
+    </string-array>
+    <string-array name="score_descriptions">
+        <item>Listă blocări dezactivată</item>
+        <item>Gestionare permisiuni dezactivată</item>
+        <item>Coş de reciclare prea mare</item>
+        <item>Bibliotecă viruși expirată</item>
+        <item>Prea multe procese în fundal</item>
+    </string-array>
+    <string-array name="score_suggests">
+        <item>Activaţi listă blocări</item>
+        <item>Activaţi gestionarea permisiunilor</item>
+        <item>Goliţi coşul de reciclare</item>
+        <item>Activaţi bibliotecă viruşi</item>
+        <item>Rulați o mulțime de aplicații în fundal…</item>
+    </string-array>
+    <string-array name="network_speed_slow_summary" >
+        <item>Rețeaua este lentă din cauza traficului intens</item>
+        <item>Rețeaua este lentă din cauza nivelului slab al semnalului</item>
+        <item>Mutare\u2026</item>
     </string-array>
 </resources>

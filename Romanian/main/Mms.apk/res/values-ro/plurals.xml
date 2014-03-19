@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">Ştergeţi %1$s conversaţii selectate?</item>
+        <item quantity="one">Ştergeţi această conversaţie?</item>
+    </plurals>
+    <plurals name="slide_duration">
+        <item quantity="other">%s s</item>
+        <item quantity="one">%s s</item>
+        <item quantity="few">%s s</item>
+    </plurals>
+    <plurals name="search_results_title">
+        <item quantity="other">%1$s (de) rezultate pentru „%2$s”</item>
+        <item quantity="one">%1$s rezultat pentru „%2$s”</item>
+    </plurals>
+    <plurals name="message_count">
+        <item quantity="other">%1$s mesaje</item>
+        <item quantity="one">%1$s mesaj</item>
+    </plurals>
+    <plurals name="recipient_count">
+        <item quantity="other">%1$s (de) persoane</item>
+    </plurals>
+</resources>

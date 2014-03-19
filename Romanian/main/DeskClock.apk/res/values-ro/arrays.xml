@@ -11,7 +11,7 @@
         <item>Alarmă setată peste %1$s, %2$s şi %3$s din acest moment.</item>
     </string-array>
     <string-array name="snooze_duration_entries">
-        <item>1 minută</item>
+        <item>1 minut</item>
         <item>5 minute</item>
         <item>10 minute</item>
         <item>15 minute</item>
@@ -20,8 +20,8 @@
         <item>30 de minute</item>
     </string-array>
     <string-array name="auto_silence_entries">
-        <item>Fără oprire</item>
-        <item>1 minută</item>
+        <item>Niciodată</item>
+        <item>1 minut</item>
         <item>5 minute</item>
         <item>10 minute</item>
         <item>15 minute</item>
@@ -35,7 +35,7 @@
         <item>Renunţaţi</item>
     </string-array>
     <string-array name="alarm_in_furture">
-        <item>Alarmă în mai puţin de o minută</item>
+        <item>Alarmă în mai puţin de 1 minut</item>
         <item>Alarmă în %1$s</item>
         <item>Alarmă în %2$s</item>
         <item>Alarmă în %1$s %2$s</item>

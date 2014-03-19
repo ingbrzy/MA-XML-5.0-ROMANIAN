@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="bt_bpp_orientations">
+        <item>Portret</item>
+        <item>Peisaj</item>
+        <item>Portret invers</item>
+        <item>Peisaj invers</item>
+        <item>unknown</item>
+        <item>unknown</item>
+        <item>unknown</item>
+        <item>unknown</item>
+    </string-array>
+    <string-array name="bt_bpp_sidesettings">
+        <item>Unilaterală</item>
+        <item>Margine bilaterală lungă</item>
+        <item>Margine bilaterală scurtă</item>
+        <item>unknown</item>
+        <item>unknown</item>
+        <item>unknown</item>
+        <item>unknown</item>
+        <item>unknown</item>
+    </string-array>
+    <string-array name="bt_bpp_qualitys">
+        <item>Normală</item>
+        <item>Schiţată</item>
+        <item>Ridicată</item>
+        <item>unknown</item>
+        <item>unknown</item>
+        <item>unknown</item>
+        <item>unknown</item>
+        <item>unknown</item>
+    </string-array>
+    <string-array name="bt_bpp_entry_error">
+        <item>no error</item>
+        <item>Creare fişier v-card eşuată</item>
+        <item>Format imagine neacceptat</item>
+    </string-array>
+    <string-array name="bluetooth_ftp_client_file_operations">
+        <item>Obţineţi</item>
+        <item>Ştergeţi</item>
+    </string-array>
+    <string-array name="bluetooth_ftp_client_folder_operations">
+        <item>Deschideţi</item>
+        <item>Ştergeţi</item>
+    </string-array>
+    <string-array name="bluetooth_ftp_server_permission_entries">
+        <item>Numai citire</item>
+        <item>Control complet</item>
+    </string-array>
+</resources>

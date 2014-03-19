@@ -1,0 +1,16 @@
+<feature>
+    <name>Nexus S</name>
+    <boolean>TRUE</boolean>
+    <title>
+Pe Nexus S:
+
+1. Accesaţi Meniul principal > Setări > Wireless şi Reţele
+
+2. Atingeţi Bluetooth
+
+3. Deschideţi Setări Bluetooth şi asiguraţi-vă că dispozitivul este detectabil 
+
+Apoi atingeţi "Înainte" pe acest dispozitiv.
+    </title>
+    <header></header>
+</feature>

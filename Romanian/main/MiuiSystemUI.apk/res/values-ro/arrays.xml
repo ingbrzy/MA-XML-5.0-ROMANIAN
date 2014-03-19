@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="carrier_name">
+        <item>MD Moldcell</item>
+        <item>MD Moldcell 3G</item>
+        <item>Orange MD</item>
+        <item>Orange MD 3G</item>
+    </string-array>
+    <string-array name="carrier_simple_name">
+        <item>Moldcell</item>
+        <item>Moldcell 3G</item>
+        <item>Orange</item>
+        <item>Orange 3G</item>
+    </string-array>
+</resources>

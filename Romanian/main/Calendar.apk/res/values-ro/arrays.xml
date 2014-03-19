@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--Decompiled by BART-R (BurgerZ <az.burgerz@gmail.com)>--><resources>
+<resources>
     <string-array name="reminder_methods_labels">
         <item>Notificare</item>
         <item>E-mail</item>
@@ -7,6 +7,7 @@
         <item>Alarmă</item>
     </string-array>
     <string-array name="reminder_minutes_labels">
+        <item>Niciunul</item>
         <item>0 minute</item>
         <item>1 minut</item>
         <item>5 minute</item>
@@ -182,5 +183,14 @@
         <item>Ajung în aproximativ 10 minute.</item>
         <item>Începeţi fără mine.</item>
         <item>Îmi pare rău, nu pot să ajung. Va trebui să ne vedem altădată.</item>
+    </string-array>
+    <string-array name="prefEntries_alerts_vibrateWhen">
+        <item>Mereu</item>
+        <item>Doar în modul silenţios</item>
+        <item>Niciodată</item>
+    </string-array>
+    <string-array name="widget_style_list">
+        <item>Negru transparent</item>
+        <item>Fundal alb</item>
     </string-array>
 </resources>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="move_messages">
+        <item quantity="other">Mutaţi mesajele</item>
+        <item quantity="one">Mutaţi mesajul</item>
+    </plurals>
+    <plurals name="notification_new_one_account_fmt">
+        <item quantity="other">%1$d necitit(e) (%2$s)</item>
+        <item quantity="one">%1$d necitit(e) (%2$s)</item>
+        <item quantity="few">%1$d necitit(e) (%2$s)</item>
+    </plurals>
+    <plurals name="notification_new_multi_account_fmt">
+        <item quantity="other">în %d (de) conturi</item>
+        <item quantity="few">în %d (de) conturi</item>
+    </plurals>
+    <plurals name="number_of_accounts">
+        <item quantity="other">%1$d conturi</item>
+        <item quantity="one">%1$d cont</item>
+    </plurals>
+    <plurals name="picker_combined_view_account_count">
+        <item quantity="other">%d (de) conturi</item>
+        <item quantity="one">%d cont</item>
+    </plurals>
+    <plurals name="message_view_selected_message_count">
+        <item quantity="other">%d selectate</item>
+        <item quantity="one">%d selectate</item>
+    </plurals>
+    <plurals name="message_view_show_attachments_action">
+        <item quantity="other">%1$d ataşamente</item>
+        <item quantity="one">Ataşament %1$d</item>
+    </plurals>
+    <plurals name="message_delete_confirm">
+        <item quantity="other">Ştergeţi aceste mesaje?</item>
+        <item quantity="one">Ştergeţi acest mesaj?</item>
+    </plurals>
+    <plurals name="message_deleted_toast">
+        <item quantity="other">Mesaje şterse</item>
+        <item quantity="one">Mesaj şters</item>
+    </plurals>
+    <plurals name="message_moved_toast">
+        <item quantity="other">%1$d (de) mesaje mutate în %2$s</item>
+        <item quantity="one">%1$d mesaj mutat în %2$s</item>
+    </plurals>
+    <plurals name="message_view_attachment_bytes">
+        <item quantity="other">%d O</item>
+        <item quantity="one">%d O</item>
+    </plurals>
+    <plurals name="message_view_attachment_kilobytes">
+        <item quantity="other">%d KO</item>
+        <item quantity="one">%d KO</item>
+    </plurals>
+    <plurals name="message_view_attachment_megabytes">
+        <item quantity="other">%d MO</item>
+        <item quantity="one">%d MO</item>
+    </plurals>
+    <plurals name="message_view_attachment_gigabytes">
+        <item quantity="other">%d GO</item>
+        <item quantity="one">%d GO</item>
+    </plurals>
+    <plurals name="gal_completed_fmt">
+        <item quantity="other">%1$d (de) rezultate din %2$s</item>
+        <item quantity="one">%1$d rezultat de la %2$s</item>
+    </plurals>
+</resources>

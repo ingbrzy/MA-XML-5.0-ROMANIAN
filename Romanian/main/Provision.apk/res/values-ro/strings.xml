@@ -9,28 +9,25 @@
     <string name="other_service_google_location">Serviciul localizare Google</string>
     <string name="other_service_google_location_use">Locaţie şi Căutare Google</string>
     <string name="other_service_google_location_use_summary">Permiteţi Google să utilizeze locaţia dvs. pentru a îmbunătăţi rezultatele căutărilor şi alte servicii</string>
-    <string name="other_service_google_location_use_help">"Permiteţi serviciului de localizare Google să colecteze date anonime de localizare. Colectarea va avea loc chiar și atunci când nu rulează nici o aplicație.
-Pentru ajustarea acestei setări, mergeţi la Setări > Acces la locaţie"</string>
+    <string name="other_service_google_location_use_help">Permiteți serviciului de localizare Google să colecteze date anonime de localizare. Colectarea va avea loc chiar și atunci când nu rulează nicio aplicație.</string>
     <string name="other_service_permission_manager">Gestionaţi permisiunile aplicaţiilor</string>
     <string name="other_service_permission_manager_summary">Monitorizaţi aplicaţiile pentru securitate şi confidenţialitate</string>
     <string name="other_service_user_experience">Programul experiență de utilizare</string>
-    <string name="other_service_user_experience_summary0">"Ajutaţi Xiaomi să-şi îmbunătățească produsele şi serviciile prin trimiterea datelor anonime de diagnosticare"</string>
-    <string name="other_service_user_experience_summary1">(vizualizaţi politica de confidențialitate)</string>
+    <string name="other_service_user_experience_summary0">"Ajutaţi Xiaomi să-şi îmbunătățească produsele şi serviciile prin trimiterea datelor anonime de diagnosticare. "</string>
+    <string name="other_service_user_experience_summary1">"(vizualizaţi politica de confidențialitate)"</string>
     <string name="sim_card_detection_dialog_message">Detectare card SIM\u2026</string>
     <string name="sim_card_detection_label">Card SIM</string>
-    <string name="sim_card_detection_info">"Din păcate nu puteţi configura contul Xiaomi fără un card SIM."</string>
+    <string name="sim_card_detection_info"></string>
     <string name="sim_card_detection_status_absent">Cardul SIM nu a fost detectat</string>
     <string name="setup_complete_label">Vă mulţumim</string>
-    <string name="setup_complete_info">Dispozitivele Xiaomi: asistența pentru clienți va începe acum</string>
+    <string name="setup_complete_info"></string>
     <string name="setup_complete_start">Începeţi utilizarea MIUI</string>
     <string name="setup_complete_summary">Configurare funalizată!</string>
     <string name="traffic_protection_label">Monitorizare utilizare de date</string>
     <string name="traffic_protection_summary">Setați alerte pentru atunci când a fost atinsă limita lunară de date mobile</string>
-    <string name="traffic_protection_unknown"><u>"Introduceţi mai târziu"</u></string>
-    <string name="traffic_protection_text_hint">Introduceţi limitele planului tarifar pt. datele mobile</string>
+    <string name="traffic_protection_unknown"><u>"Setaţi mai târziu"</u></string>
+    <string name="traffic_protection_text_hint">Introduceţi limita planului tarifar pt. datele mobile</string>
     <string name="data_usage_summary">Dacă abonamentul dvs. lunar nu include date mobile, operatorul poate percepe taxe suplimentare pentru utilizarea de date mobile</string>
     <string name="use_data">Date activate</string>
-    <string name="input_method_category">Metoda de intrare prestabilită</string>
-    <string name="input_method">Metodă de intrare</string>
-    <string name="default_gprs_sim_name">Introduceţi limitele datelor pentru \"%s\"</string>
+    <string name="default_gprs_sim_name">Introduceţi limita datelor mobile pentru \"%s\"</string>
 </resources>

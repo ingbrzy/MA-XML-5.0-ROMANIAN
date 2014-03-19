@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="uninstall_dialog_title_format">
+        <item quantity="other">Dezinstalaţi %1$s şi alte %2$d aplicaţii?</item>
+        <item quantity="one">Dezinstalaţi %s</item>
+        <item quantity="two">Dezinstalaţi %s şi încă o aplicaţie?</item>
+    </plurals>
+    <plurals name="uninstall_result_succeeded">
+        <item quantity="other">%1$ aplicaţii dezinstalate</item>
+        <item quantity="one">Aplicaţie dezinstalată</item>
+    </plurals>
+    <plurals name="uninstall_result_failed">
+        <item quantity="other">Imposibil de dezinstalat %1$s şi alte %2$d (de) aplicaţii</item>
+        <item quantity="one">Imposibil de dezinstalat %s</item>
+        <item quantity="two">Imposibil de dezinstalat %s şi încă o aplicaţie</item>
+    </plurals>
+</resources>

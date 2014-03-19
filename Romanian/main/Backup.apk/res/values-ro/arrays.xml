@@ -8,10 +8,10 @@
         <item>Browser</item>
         <item>Manager fişiere</item>
         <item>Galerie</item>
-        <item>Manager permisiuni</item>
-        <item>Cameră foto</item>
-        <item>Asistent reţea</item>
-        <item>Stocare vreme</item>
+        <item>Permisiuni</item>
+        <item>Cameră</item>
+        <item>Utilizare date</item>
+        <item>Date meteo</item>
         <item>Vreme</item>
     </string-array>
     <string-array name="system_data_label">
@@ -28,9 +28,9 @@
         <item>Cont</item>
     </string-array>
     <string-array name="app_type_desc">
-        <item>Date.</item>
-        <item>Aplicaţie.</item>
-        <item>Aplicaţie şi date.</item>
+        <item>Date</item>
+        <item>Aplicaţie</item>
+        <item>Aplicaţie şi date</item>
     </string-array>
     <string-array name="cloud_data_label">
         <item>Contacte</item>

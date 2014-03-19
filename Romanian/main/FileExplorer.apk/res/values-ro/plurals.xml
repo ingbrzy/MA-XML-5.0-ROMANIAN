@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="delete_files_confirm">
+        <item quantity="one">Ştergeţi 1 fişier</item>
+        <item quantity="other">Ştergeţi %1$d (de) fişiere</item>
+    </plurals>
+    <plurals name="delete_folders_confirm">
+        <item quantity="one">" şi 1 dosar?"</item>
+        <item quantity="other">" şi %1$d (de) dosare?"</item>
+    </plurals>
+    <plurals name="directory_item_count">
+        <item quantity="other">%d elemente</item>
+        <item quantity="one">1 element</item>
+    </plurals>
+    <plurals name="ui_bar_txt_download_progress">
+        <item quantity="other">%1$d fişiere de descărcat</item>
+        <item quantity="one">1 fişier de descărcat</item>
+    </plurals>
+    <plurals name="ui_bar_txt_upload_progress">
+        <item quantity="other">%1$d fişiere de încărcat</item>
+        <item quantity="one">1 fişier de încărcat</item>
+    </plurals>
+</resources>

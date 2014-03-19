@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="number_of_items_selected">
+        <item quantity="other">%1$d selectate</item>
+        <item quantity="zero">%1$d selectat</item>
+        <item quantity="one">%1$d selectat</item>
+    </plurals>
+    <plurals name="number_of_cloudimages">
+        <item quantity="other">%1$d imagini</item>
+        <item quantity="zero">%1$d imagini</item>
+        <item quantity="one">%1$d imagine</item>
+    </plurals>
+</resources>

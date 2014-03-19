@@ -1,0 +1,13 @@
+<feature>
+    <boolean>TRUE</boolean>
+    <title>
+Pe dispozitivul de pe care importaţi contactele:
+
+1. Găsiţi Setările Bluetooth (de obicei sunt situate în Setări)
+
+2. Asiguraţi-vă că Bluetooth este activat şi că dispozitivul este detectabil 
+
+Apoi atingeţi "Înainte" pe acest dispozitiv.
+    </title>
+    <header></header>
+</feature>
