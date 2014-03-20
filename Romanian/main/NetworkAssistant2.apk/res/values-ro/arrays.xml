@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="traffic_uints">
+        <item>" O"</item>
+        <item>" KO"</item>
+        <item>" MO"</item>
+        <item>" GO"</item>
+    </string-array>
+    <string-array name="date_of_traffic">
+        <item>Ieri</item>
+        <item>Azi</item>
+        <item>În această lună</item>
+    </string-array>
+    <string-array name="date_of_app_all">
+        <item>Ieri (Date)</item>
+        <item>Azi (Date)</item>
+        <item>În această lună (Date)</item>
+        <item>Ieri (Wi-Fi)</item>
+        <item>Azi (Wi-Fi)</item>
+        <item>În această lună (Wi-Fi)</item>
+    </string-array>
+    <string-array name="date_of_app">
+        <item>Ieri (Date)</item>
+        <item>Azi (Date)</item>
+        <item>În această lună (Date)</item>
+    </string-array>
+    <string-array name="network_speed_update_internals">
+        <item>3 sec.</item>
+        <item>4 sec.</item>
+        <item>5 sec.</item>
+        <item>6 sec.</item>
+        <item>7 sec.</item>
+        <item>8 sec.</item>
+        <item>9 sec.</item>
+    </string-array>
+    <string-array name="traffic_sort_type">
+        <item>Utilizare date</item>
+        <item>Utilizare Wi-Fi</item>
+        <item>Utilizare totală</item>
+    </string-array>
+    <string-array name="traffic_setting_sms_template">
+        <item>Obţineţi șablonul mesajului automat</item>
+        <item>Setaţi șablonul mesajului manual</item>
+    </string-array>
+</resources>
