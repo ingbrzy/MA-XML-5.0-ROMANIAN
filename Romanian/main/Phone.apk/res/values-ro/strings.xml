@@ -1030,7 +1030,6 @@ Pentru mai multe opţiuni, încercaţi din nou sau apelaţi serviciul pentru cli
     <string name="call_record_notification_title_miui">Apel înregistrat</string>
     <string name="call_record_sd_error_miui">Nu s-a putut accesa cardul SD</string>
     <string name="call_record_sd_space_low_miui">Spaţiu insuficient: cardul SD este plin</string>
-    <string name="call_record_path_name_of_sdcard_miui">Card SD</string>
     <string name="call_settings_category_miui">Apeluri</string>
     <string name="call_settings_miui">Setări apeluri</string>
     <string name="call_title_redialing_with_times_miui">Reapelat de %d ori</string>

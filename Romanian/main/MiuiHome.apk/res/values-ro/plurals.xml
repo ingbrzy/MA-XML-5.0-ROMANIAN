@@ -6,7 +6,7 @@
         <item quantity="two">Dezinstalaţi %s şi încă o aplicaţie?</item>
     </plurals>
     <plurals name="uninstall_result_succeeded">
-        <item quantity="other">%1$ aplicaţii dezinstalate</item>
+        <item quantity="other">%1$d aplicaţii dezinstalate</item>
         <item quantity="one">Aplicaţie dezinstalată</item>
     </plurals>
     <plurals name="uninstall_result_failed">

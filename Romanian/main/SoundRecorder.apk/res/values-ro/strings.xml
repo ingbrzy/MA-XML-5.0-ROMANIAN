@@ -103,11 +103,17 @@
     <string name="retry">Reîncercaţi</string>
     <string name="start">Reluaţi</string>
     <string name="record_download_manager">Descărcări</string>
-    <string name="record_downloading_notification">Descărcare\u2026</string>
+    <string name="record_downloading_notification">Descărcare…</string>
     <string name="record_downloading_notification_count">descărcat %d</string>
     <string name="record_downloading_notification_complete">Descărcare finalizată</string>
     <string name="sync_records">Sincronizare cu Mi Cloud</string>
     <string name="sync_only_in_wifi">Se sincronizează doar prin Wi-Fi</string>
     <string name="sync_only_in_wifi_summary">Recorder-ul va utiliza conexiunea de date mobile pentru a descărca sau încărca înregistrările atunci când această opțiune este dezactivată</string>
     <string name="sync_only_in_wifi_alert">Dezactivarea acestei opțiuni poate crește utilizarea datelor mobile (ar putea să vă coste bani în plus).</string>
+    <string name="wifi_recommended_title">Memento utilizare date</string>
+    <string name="wifi_recommended_body">Sunteţi pe cale de a descărca prin intermediul rețelei mobile:\nDescărcarea fișierului poate duce la costuri mai mari de date.</string>
+    <string name="button_queue_for_wifi">Coadă</string>
+    <string name="button_start_now">Descărcaţi</string>
+    <string name="notification_title_all_paused">Descărcare în pauză</string>
+    <string name="notification_message_all_paused">Poate crește utilizarea datelor mobile</string>
 </resources>

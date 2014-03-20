@@ -108,9 +108,9 @@ Indicele calitatăţii aerului în %1$s este %2$s, %3$s. %4$s %5$s."</string>
     <string name="first_start_network_toast_text">Acces la rețea pentru obținerea informației despre starea vremii.</string>
     <string name="act_weather_find_city_search_online">"Căutaţi "</string>
     <string name="act_weather_find_city_connect_net">Încercaţi din nou</string>
-    <string name ="act_weather_find_city_searching">Căutare\u2026</string>
+    <string name ="act_weather_find_city_searching">Căutare…</string>
     <string name ="act_init_dialog_finish">Informații meteo la nivel mondial au fost adăugate.</string>
-    <string name ="loading_weather">Încărcare\u2026</string>
+    <string name ="loading_weather">Încărcare…</string>
     <string name ="act_weather_cycle_link_china"></string>
     <string name ="menu_add">Adăugaţi o locaţie</string>
     <string name ="menu_more">Detalii</string>

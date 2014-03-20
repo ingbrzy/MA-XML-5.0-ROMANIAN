@@ -364,7 +364,7 @@
     <string name="readmode_recommend">Vizualizaţi recomandate</string>
     <string name="readmode_refresh">Reîmprospătaţi</string>
     <string name="google_bookmarks">Google:\u0020</string>
-    <string name="bookmarks_management">Marcaje</string>
+    <string name="bookmarks_management">Gestionare marcaje</string>
     <string name="bookmarks_root_folder">Dosar rădăcină</string>
     <string name="bookmarks_content_is_null">Niciun marcaj</string>
     <string name="history_browsed">Istoric navigare</string>
@@ -379,7 +379,7 @@
     <string name="delete">Ştergeţi</string>
     <string name="multi_select_title">%1$s (de) element(e) selectate.</string>
     <string name="delete_multi_bookmarks_alert_title">Ştergeţi %1$s elemente?</string>
-    <string name="add_bookmark">Adăugaţi marcaj</string>
+    <string name="add_bookmark">"Adăugaţi un marcaj "</string>
     <string name="send_bookmark_to_home_screen">Plasaţi pe ecranul de pornire</string>
     <string name="bookmark_title">Nume marcaj</string>
     <string name="bookmark_url">URL http://</string>

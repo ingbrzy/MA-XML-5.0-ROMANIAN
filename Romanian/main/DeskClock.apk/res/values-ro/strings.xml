@@ -83,7 +83,7 @@
     <string name="menu_edit_systemtime">Ora sistemului</string>
     <string name="delete_timezone_title">Ştergeţi ceasul</string>
     <string name="delelte_selected_timezone">Ştergeţi fusul orar selectat?</string>
-    <string name="wait_when_operating_data_message">Procesare date\u2026</string>
+    <string name="wait_when_operating_data_message">Procesare date…</string>
     <string name="timezone_exist_error_message">Ceasul se afişează deja</string>
     <string name="timezone_search_hint">Căutaţi un oraş pentru a adăuga un ceas global</string>
     <string name="alarm_disabled">Dezactivată</string>
@@ -124,7 +124,7 @@
     <string name="alarm_label_hint">Etichetă alarmă</string>
     <string name="legal_workday_invalidate">Date expirate (La moment, alarma sună de Luni până Vineri)</string>
     <string name="legal_workday_invalidate_message">(Date expirate. Actualizaţi în setări)</string>
-    <string name="legal_workday_message">\u0020(Alarmă dezactivată în zilele de sărbătoare)</string>
+    <string name="legal_workday_message">" (Alarmă dezactivată în zilele de sărbătoare)"</string>
     <string name="default_alarm_alert">Setaţi sunetul alarmei prestabilit</string>
     <string name="default_alarm_title">Ton sonerie prestabilit</string>
     <string name="alarm_alert">Ton sonerie prestabilit</string>

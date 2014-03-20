@@ -137,7 +137,7 @@
     <string name="share_msg_model">Ţi-am distribuit un fișier:\n%1$s</string>
     <string name="send_share_link">Partajaţi adresa</string>
     <string name="generate_share_link_failed">Partajare eşuată</string>
-    <string name="generating_share_link">Partajare link-uri\u2026</string>
+    <string name="generating_share_link">Partajare link-uri…</string>
     <string name="network_not_connected">Nu s-a putut conecta la rețea</string>
     <string name="login_failed">Conectare eşuată</string>
     <string name="select_file_to_share">Selectaţi un fișier</string>
@@ -146,7 +146,7 @@
     <string name="all_history">Istoric</string>
     <string name="share_history">Istoric partajări</string>
     <string name="receive_history">Istoric recepţionări</string>
-    <string name="init_xiaomi_account">Conectarea cu cont Xiaomi\u2026</string>
+    <string name="init_xiaomi_account">Conectare cu contul Xiaomi…</string>
     <string name="send_file_to_friends_by_net">Partajaţi fișiere prin Internet</string>
     <string name="select_all">Selectaţi tot</string>
     <string name="unselect_all">Deselectaţi tot</string>
@@ -165,13 +165,13 @@
     <string name="file_share_download_complete">Descărcare finalizată</string>
     <string name="please_select_share">Selectați un fișier</string>
     <string name="only_support_single_share">Puteți partaja doar 1 fișier la un moment dat</string>
-    <string name="file_downloading">Descărcare\u2026</string>
+    <string name="file_downloading">Descărcare…</string>
     <string name="file_restore">Restabilire fișier</string>
-    <string name="file_uploading">Încărcare\u2026</string>
+    <string name="file_uploading">Încărcare…</string>
     <string name="from_kuaipan">Din Kuaipan</string>
-    <string name="waitting">Aşteptare\u2026</string>
-    <string name="wait_login">Conectare\u2026</string>
-    <string name="wait_net">Așteptare rețea\u2026</string>
+    <string name="waitting">Aşteptare…</string>
+    <string name="wait_login">Conectare…</string>
+    <string name="wait_net">Așteptare rețea…</string>
     <string name="wait_sdcard">Așteptare card SD</string>
     <string name="wait_wifi">Așteptare Wi-Fi</string>
     <string name="wait_wifi_to_upload">Așteptare conexiune Wi-Fi</string>
@@ -186,7 +186,7 @@
     <string name="trans_complete">Transfer finalizat</string>
     <string name="complete">Finalizat</string>
     <string name="retry">Reîncercați</string>
-    <string name="wait_for_upload">Așteptare încărcare\u2026</string>
+    <string name="wait_for_upload">Așteptare încărcare…</string>
     <string name="file_upload">Încărcări</string>
     <string name="file_download">Descărcări</string>
     <string name="trans_paused">Pauză</string>
@@ -201,7 +201,7 @@
     <string name="wait_for_upload_to_download">După ce cealaltă parte încarcă fișierul, acesta va fi descărcat automat</string>
     <string name="restore_succeed">Fişier restabilit</string>
     <string name="restart">Continuaţi</string>
-    <string name="loading_file">Încărcare\u2026</string>
+    <string name="loading_file">Încărcare…</string>
     <string name="load_file_error">Nu s-a putut obţine informaţia despre fişier</string>
     <string name="retry_to_load_file_info">Încercați să încărcați din nou acest fișier?</string>
     <string name="download_succeed">Descărcare finalizată</string>

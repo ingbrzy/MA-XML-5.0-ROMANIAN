@@ -190,7 +190,6 @@ conținutul pe care îl căutați nu este disponibil în prezent în regiunea dv
     <string name="resource_expand_full_text">Extindeţi</string>
     <string name="resource_account_login">Conectaţi-vă</string>
     <string name="resource_account_switch">Comutaţi</string>
-    <string name="resource_account_current">Cont: %1$s</string>
     <string name="resource_account_login_title">Conectaţi-vă</string>
     <string name="resource_account_fail_to_add">Adăugarea contului a eşuat</string>
     <string name="resource_account_abnormal_state">Eroare cont: Încercaţi din nou mai târziu</string>

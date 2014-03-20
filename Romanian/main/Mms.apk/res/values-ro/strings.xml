@@ -19,7 +19,7 @@
     <string name="download">Descărcaţi</string>
     <string name="downloading">Se descarcă</string>
     <string name="insufficient_drm_rights">Drepturile DRM detectate sunt insuficiente.</string>
-    <string name="copy_message_text">\u0020\u0020Copiaţi textul</string>
+    <string name="copy_message_text">" Copiaţi textul"</string>
     <string name="done">Enter</string>
     <string name="move_up">Mutaţi în sus</string>
     <string name="move_down">Mutaţi în jos</string>
@@ -255,7 +255,7 @@
     <string name="refresh">Reîmprospătaţi</string>
     <string name="refresh_failed">Reîmprospătare eşuată</string>
     <string name="database_corruption">Recreare…</string>
-    <string name="send_to">Către:\u0020</string>
+    <string name="send_to">"Către: "</string>
     <string name="send_to_count">Au fost trimise %1$s mesaje</string>
     <string name="message_received">Recepţionat</string>
     <string name="message_failed">Eşuat</string>
@@ -378,7 +378,7 @@
     <string name="mx_activate_int_hint_malformed_info">Un mesaj text internaţional va fi trimis pentru a reactiva mesageria în nor (se aplică tarife normale de utilizare a datelor).</string>
     <string name="mx_activate_hint_server">Un mesaj text va fi trimis pentru a reactiva mesageria în nor (se aplică tarife normale de utilizare a datelor).</string>
     <string name="mx_activate_int_hint_server">Un mesaj text internaţional va fi trimis pentru a reactiva mesageria în nor (se aplică tarife normale de utilizare a datelor).</string>
-    <string name="need_download">Sincronizare\u2026</string>
+    <string name="need_download">Sincronizare…</string>
     <string name="found_wild_messages_title">Descărcare mesaje</string>
     <string name="found_wild_messages">Descărcați mesajele de pe alte carduri SIM?</string>
     <string name="found_old_messages_title">Încărcaţi mesajele de pe alte carduri SIM?</string>
@@ -397,7 +397,7 @@
     <string name="add_number_to_sender">Addăugaţi numărul la %s</string>
     <string name="unknown_num">Număr necunoscut</string>
     <string name="in_sms">Mesaj</string>
-    <string name="sms_content">Conţinut:\u0020</string>
+    <string name="sms_content">"Conţinut: "</string>
     <string name="hint_search_sms">%d mesaje</string>
     <string name="search_show_more_results">Afişaţi mai multe</string>
     <string name="add_private_contact">Adăugați un contact privat</string>

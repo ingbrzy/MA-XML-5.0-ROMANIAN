@@ -13,7 +13,7 @@
   <string name="auto_backup_date">Frecvenţă creare copii de rezervă</string>
   <string name="auto_backup_only_wifi">Doar atunci când este conectat prin Wi-Fi</string>
   <string name="auto_backup_open">Activaţi crearea copiilor de rezervă în mod automat</string>
-  <string name="auto_backup_progress">Creare copie de rezervă\u2026</string>
+  <string name="auto_backup_progress">Creare copie de rezervă…</string>
   <string name="auto_backup_select_user_apps">Selectaţi aplicaţiile</string>
   <string name="auto_backup_selected_user_apps">Aplicaţiile selectate</string>
   <string name="auto_backup_setting">Crearea copiilor de rezervă în mod automat</string>
@@ -33,7 +33,7 @@
   <string name="backup_items_app_tailer">" aplicaţii "</string>
   <string name="backup_items_sysdata_tailer">" date de sistem, "</string>
   <string name="backup_new">Nouă:</string>
-  <string name="backup_progress">Creare copie de rezervă\u2026</string>
+  <string name="backup_progress">Creare copie de rezervă…</string>
   <string name="backup_recently"></string>
   <string name="backup_report">Vizualizaţi detaliile despre copia de rezervă</string>
   <string name="backup_update">Actualizare</string>
@@ -54,15 +54,15 @@
   <string name="cloud_backup_login">Conectaţi-vă la contul dvs. Xiaomi</string>
   <string name="cloud_backup_window_title">Copie de rezervă în Mi Cloud</string>
   <string name="cloud_home_title">Mi Cloud</string>
-  <string name="cloud_item_info_summary">\u0020(Local %1$s | Mi Cloud %2$s)</string>
+  <string name="cloud_item_info_summary">" (Local %1$s | Mi Cloud %2$s)"</string>
   <string name="cloud_last_backup">Ultima copie de rezervă:</string>
   <string name="cloud_no_backup">Nicio copie de rezervă</string>
   <string name="cloud_restore_guide">Pentru a restabili datele de utilizator pentru %s, atingeţi Restabilire</string>
   <string name="cloud_restore_title">Restabiliţi datele</string>
   <string name="cloud_restore_window_title">Restabilire din Mi Cloud</string>
-  <string name="cloud_search">Căutare\u2026</string>
-  <string name="compute_backup_info">Preluarea informaţiei\u2026</string>
-  <string name="compute_delete_contact_info">Căutare contacte pentru ştergere\u2026</string>
+  <string name="cloud_search">Căutare…</string>
+  <string name="compute_backup_info">Preluarea informaţiei…</string>
+  <string name="compute_delete_contact_info">Căutare contacte pentru ştergere…</string>
   <string name="contact_title">Contacte</string>
   <string name="current_account">Conectat ca: %s</string>
   <string name="current_sim">Cardul SIM actual</string>
@@ -70,7 +70,7 @@
   <string name="data_no_enough_space_message">Spațiu insuficient în memoria internă a telefonului.</string>
   <string name="date_format">dd-MM-yyyy HH:mm:ss</string>
   <string name="delete">Ştergeţi</string>
-  <string name="delete_backup_process">Ştergere\u2026</string>
+  <string name="delete_backup_process">Ştergere…</string>
   <string name="delete_failed_backup_confirm">Această copie de rezervă nu poate fi utilizată pentru a restabili datele dumneavoastră, deoarece conține erori.</string>
   <string name="dir_date_format">dd-MM-yyyy_HH-mm-ss</string>
   <string name="disable_encrypt_title">Criptare dezactivată</string>
@@ -108,11 +108,11 @@
   <string name="no_network">Nu se poate conecta la reţea</string>
   <string name="note_title">Note</string>
   <string name="nothing_searched">Nu s-a găsit nimic</string>
-  <string name="progress_backup_hint">Creare copie de rezervă\u2026</string>
-  <string name="progress_restore_hint">Restabilire\u2026</string>
-  <string name="prompt_reading">Citire\u2026</string>
-  <string name="prompt_sending">Încărcare\u2026</string>
-  <string name="prompt_writing">Salvare\u2026</string>
+  <string name="progress_backup_hint">Creare copie de rezervă…</string>
+  <string name="progress_restore_hint">Restabilire…</string>
+  <string name="prompt_reading">Citire…</string>
+  <string name="prompt_sending">Încărcare…</string>
+  <string name="prompt_writing">Salvare…</string>
   <string name="read_encrypt_fail">Nu s-a putut citi copia de rezervă criptată</string>
   <string name="refresh">Reîmprospătaţi</string>
   <string name="restore">Restabiliţi</string>
@@ -124,7 +124,7 @@
   <string name="restore_failed">Restabilire eşuată</string>
   <string name="restore_finished">Restabilire finalizată</string>
   <string name="restore_launcher_layout_hit">(Notă: Restabiliţi aspectul lansatorului)</string>
-  <string name="restore_progress">Restabilire\u2026</string>
+  <string name="restore_progress">Restabilire…</string>
   <string name="restore_report">Raport restabilire</string>
   <string name="restore_telephony_hit">Restabilirea va reporni aplicaţia Telefon</string>
   <string name="retry">Reîncercaţi</string>
@@ -152,7 +152,7 @@
   <string name="succeed">Finalizată</string>
   <string name="system_backup">Copii de rezervă</string>
   <string name="system_backup_info">Setări sistem, aspect desktop etc.</string>
-  <string name="task_backup_cancel_progress">Anulare creare copie de rezervă\u2026</string>
+  <string name="task_backup_cancel_progress">Anulare creare copie de rezervă…</string>
   <string name="task_backup_finished_local">Creare copie de rezervă finalizată</string>
   <string name="task_canceled">Creare copie de rezervă anulată</string>
   <string name="task_canceled_all_local">Anulați</string>
@@ -163,12 +163,12 @@
   <string name="task_failed_local">Sarcina %s a eşuat</string>
   <string name="task_finished">Creare copie de rezervă finalizată</string>
   <string name="task_local_backup_cancel_dialog">Crearea copiei de rezervă nu s-a finalizat. Anulaţi oricum?</string>
-  <string name="task_pending">Aştepare\u2026</string>
-  <string name="task_post_running">Procesare\u2026</string>
-  <string name="task_pre_running">Pornire\u2026</string>
+  <string name="task_pending">Aştepare…</string>
+  <string name="task_post_running">Procesare…</string>
+  <string name="task_pre_running">Pornire…</string>
   <string name="task_progress">Progres</string>
   <string name="task_restore_cancel_dialog">Oprirea acum poate duce la pierderi de date.</string>
-  <string name="task_restore_cancel_progress">Anulare\u2026</string>
+  <string name="task_restore_cancel_progress">Anulare…</string>
   <string name="task_restore_finished_local">Restabilire finalizată</string>
   <string name="task_restore_none">Nimic de restabilit</string>
   <string name="task_running_backup_dialog">Creare copie de rezervă în fundal. Apăsaţi OK pt. a vizualiza.</string>
@@ -181,7 +181,7 @@
   <string name="task_stopped_exception">Restabilire anulată</string>
   <string name="total_num">%d în total</string>
   <string name="unit_byte">O</string>
-  <string name="unit_piece">\u0020elemente</string>
+  <string name="unit_piece">" elemente"</string>
   <string name="unknown_hint">Necunoscut</string>
   <string name="wifi_title">Setări Wi-Fi</string>
 </resources>
