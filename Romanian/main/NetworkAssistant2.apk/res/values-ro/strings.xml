@@ -157,6 +157,8 @@
     <string name="data_usage_no_total_package_title">Utilizare date</string>
     <string name="data_usage_no_total_package_body">Doriţi să setaţi o limită de utilizare a datelor?</string>
     <string name="data_usage_no_total_package_body_dual">Doriţi să setaţi o limită de utilizare a datelor pentru %s?</string>
+    <string name="network_assistant_upgraded_title">Actualizare finalizată</string>
+    <string name="network_assistant_upgraded_body">Atingeţi pentru a restricţiona utilizarea datelor</string>
     <string name="lock_screen_traffic_warn_title">Avetizare utilizare date</string>
     <string name="notification_title">%1$s-%2$s: utilizat aproximativ %3$s</string>
     <string name="notification_content_title">Utilizat %1$s în perioada cât a fost blocat</string>
