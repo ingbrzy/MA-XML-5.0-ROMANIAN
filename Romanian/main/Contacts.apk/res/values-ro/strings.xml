@@ -955,7 +955,7 @@ Alegeţi una dintre următoarele opţiuni:"</string>
     <string name="picker_all_list_empty">Niciun contact</string>
     <string name="picker_favorites_list_empty">Niciun contact favorit</string>
     <string name="picker_groups_list_empty">Niciun grup</string>
-    <string name="contact_edit_title_insert">Adăugaţi %s contact(e)</string>
+    <string name="contact_edit_title_insert">Adăugaţi contact %s</string>
     <string name="contact_edit_title_edit">Editaţi contactul</string>
     <string name="contact_edit_title_readonly">Contact doar în citire</string>
     <string name="account_container_title">Importat din</string>
