@@ -110,6 +110,7 @@
     <string name="cancel_waitfornewset">Nu urmăriţi</string>
     <string name="waitfornewset_tip_content">Veți fi anunțat când un nou episod sau conținut suplimentar devin disponibile.</string>
     <string name="success_add_myfavorite">Adăugat la favorite</string>
+    <string name="success_add_waitfornewset">Urmăriţi</string>
     <string name="success_cancel_myfavorite">Eliminat din favorite</string>
     <string name="success_cancel_waitfornewset">Nu se urmăreşte</string>
     <string name="success_to_cancel_myfavorite">Anulat</string>
@@ -200,6 +201,8 @@
     <string name="continue_to_play_nextset_summary">Atunci când episodul pe care-l vizionaţi s-a terminat, următorul va începe în mod automat</string>
     <string name="clear_cache_summary">Eliminaţi miniaturile imaginilor</string>
     <string name="clear_offline_summary">Eliminaţi videoclipurile din memoria cache</string>
+    <string name="receive_ad_notify">Mesaj de notificare/funcția push</string>
+    <string name="receive_ad_notify_summary">După activare veţi primi cele mai noi și populare anunțului video</string>
     <string name="load_file_fail">Fişierul local este deteriorat</string>
     <string name="load_offline_file_fail">Fişierul off-line este deteriorat</string>
     <string name="load_failed_to_try">Încărcare eşuată</string>
