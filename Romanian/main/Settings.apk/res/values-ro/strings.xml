@@ -66,7 +66,7 @@ Activați ferestrele plutitoare?"</string>
     <string name="deep_clean_title_large_file">Fişiere mari</string>
     <string name="deep_clean_title_uninstall_apps">Aplicaţii</string>
     <string name="deep_clean_summary_install_apps_today">utilizată: azi</string>
-    <string name="deep_clean_summary_install_apps_interval">utilizată: %2$d (de) zile în urmă</string>
+    <string name="deep_clean_summary_install_apps_interval">utilizată: %d (de) zile în urmă</string>
     <string name="deep_clean_summary_install_apps_new">utilizată: niciodată</string>
     <string name="deep_clean_summary_install_apps_virus">virus detectat</string>
     <string name="deep_clean_summary_install_apps_risk">risc detectat</string>
