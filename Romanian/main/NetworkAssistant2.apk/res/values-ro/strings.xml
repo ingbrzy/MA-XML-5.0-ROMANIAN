@@ -31,7 +31,7 @@
     <string name="usage_sorted_empty_text">Gol</string>
     <string name="person_hotpot">Hotspot-uri mobile</string>
     <string name="system_app">Aplicaţii de sistem</string>
-    <string name="deleted_apps">Aplicaţii şterse</string>
+    <string name="deleted_apps">Aplicaţii dezinstalate</string>
     <string name="sorted_button">Sortaţi după</string>
     <string name="app_detail">Detalii</string>
     <string name="app_version">Versiune</string>
@@ -68,7 +68,7 @@
     <string name="pref_check_network_diagnostics">Verificați dacă conexiunea de date funcționează normal</string>
     <string name="pref_category_title_other">Setări adiţionale</string>
     <string name="pref_title_update_notification">Afişaţi notificările despre utilizarea datelor</string>
-    <string name="pref_title_traffic_speed_state">Afişaţi viteza rețelei în bara de stare</string>
+    <string name="pref_title_traffic_speed_state">Afişaţi viteza rețelei</string>
     <string name="pref_show_mobile_traffic">Atunci când deblocaţi telefonul, se afişează statistica de utilizare a datelor pentru perioada în care dispozitivul a fost blocat (trebuie să fie mai mare de 3 minute)</string>
     <string name="pref_title_mobile_traffic">Afişaţi utilizarea datelor în perioada cât a fost blocat</string>
     <string name="pref_title_declaration">Act de renunțare</string>
@@ -76,6 +76,7 @@
     <string name="pref_version">Versiune %s</string>
     <string name="pref_leisure_no_overlay">Activat</string>
     <string name="pref_leisure_not_opened">Dezactivat</string>
+    <string name="pref_new_installed_preconfig_title">Setările prestabilite pentru aplicaţiile noi</string>
     <string name="pref_manual_adjust">Setaţi manual statistica de utilizare a datelor</string>
     <string name="pref_daily_adjust">Setaţi limita de date în orele de vârf</string>
     <string name="pref_free_adjust">Setaţi limita de date în afara orelor de vârf</string>

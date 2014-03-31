@@ -83,56 +83,56 @@
         <item></item>
         <item></item>
         <item></item>
-        <item>Plouă putenic, nu utaţi să luaţi umbrela!</item>
-        <item>Plouă putenic, nu utaţi să luaţi umbrela!</item>
-        <item>Plouă putenic, nu utaţi să luaţi umbrela!</item>
-        <item>Dacă ieşiţi, nu utaţi să luaţi umbrela!</item>
-        <item>Dacă ieşiţi, nu utaţi să luaţi umbrela!</item>
-        <item>Dacă ieşiţi, nu utaţi să luaţi umbrela!</item>
-        <item>O să plouă azi, nu utaţi să luaţi umbrela!</item>
-        <item>E burniță, nu utaţi să luaţi umbrela!</item>
-        <item>E lapoviţă, nu utaţi să luaţi umbrela!</item>
-        <item>Ninge puternic, nu uitaţi să îmbrăcaţi căciula şi eşarfa!</item>
-        <item>O să ningă azi, nu uitaţi să îmbrăcaţi căciula şi eşarfa!</item>
-        <item>Ninge puternic, nu uitaţi să îmbrăcaţi căciula şi eşarfa!</item>
-        <item>Ninge, nu uitaţi să îmbrăcaţi căciula şi eşarfa!</item>
-        <item>Ninge slab, nu uitaţi să îmbrăcaţi căciula şi eşarfa</item>
-        <item>E furtună puternică de nisip, nu uitaţi să puneţi o mască pe faţă</item>
-        <item>Plouă slab, nu utaţi să luaţi umbrela</item>
-        <item>E furtună puternică de nisip, nu uitaţi să puneţi o mască pe faţă</item>
-        <item>E furtună puternică de nisip, nu uitaţi să puneţi o mască pe faţă</item>
-        <item>Nu vedeţi grindină în fiecare zi! Păşiţi atent!</item>
+        <item>Nu utaţi să luaţi umbrela!</item>
+        <item>Nu utaţi să luaţi umbrela!</item>
+        <item>Nu utaţi să luaţi umbrela!</item>
+        <item>Nu utaţi să luaţi umbrela!</item>
+        <item>Nu utaţi să luaţi umbrela!</item>
+        <item>Nu utaţi să luaţi umbrela!</item>
+        <item>Nu utaţi să luaţi umbrela!</item>
+        <item>Nu utaţi să luaţi umbrela!</item>
+        <item>Nu utaţi să luaţi umbrela!</item>
+        <item>Nu utaţi să  vâ îmbrăcaţi călduros!</item>
+        <item>Nu utaţi să  vâ îmbrăcaţi călduros!</item>
+        <item>Nu utaţi să  vâ îmbrăcaţi călduros!</item>
+        <item>Nu utaţi să  vâ îmbrăcaţi călduros!</item>
+        <item>Nu utaţi să  vâ îmbrăcaţi călduros!</item>
+        <item>Fiţi atent!</item>
+        <item>Fiţi atent!</item>
+        <item>Fiţi atent!</item>
+        <item>Fiţi atent!</item>
+        <item>Fiţi atent! Drumurile sunt alunecoase.</item>
     </string-array>
     <string-array name="weather_sms_content">
-        <item>Nu uitaţi să luaţi o protecţie solară</item>
+        <item>Nu uitaţi să puneţi o protecţie solară</item>
         <item>Va fi înnorat astăzi</item>
-        <item>Vremea se va înrăutăți, Încercaţi să rămâneţi în interior pentru o vreme</item>
-        <item>Conduceţi cu prudenţă :)</item>
-        <item>Plouă putenic, nu utaţi să luaţi umbrela</item>
-        <item>Plouă putenic, nu utaţi să luaţi umbrela</item>
-        <item>Plouă putenic, nu utaţi să luaţi umbrela</item>
-        <item>Luaţi o umbrelă!</item>
-        <item>Luaţi o umbrelă!</item>
-        <item>Luaţi o umbrelă! :)</item>
-        <item>Luaţi o umbrelă!</item>
-        <item>E burniță, nu utaţi să luaţi umbrela!</item>
-        <item>E lapoviţă, nu utaţi să luaţi umbrela!</item>
+        <item>Încercaţi să rămâneţi în interior pentru o vreme</item>
+        <item>Conduceţi cu prudenţă</item>
+        <item>Nu utaţi să luaţi umbrela!</item>
+        <item>Nu utaţi să luaţi umbrela!</item>
+        <item>Nu utaţi să luaţi umbrela!</item>
+        <item>Nu utaţi să luaţi umbrela!</item>
+        <item>Nu utaţi să luaţi umbrela!</item>
+        <item>Nu utaţi să luaţi umbrela!</item>
+        <item>Nu utaţi să luaţi umbrela!</item>
+        <item>Nu utaţi să luaţi umbrela!</item>
+        <item>Nu utaţi să luaţi umbrela!</item>
         <item>Ninge puternic!</item>
         <item>O să ningă azi, nu uitaţi să îmbrăcaţi căciula şi eşarfa</item>
         <item>Ninge puternic, nu uitaţi să îmbrăcaţi căciula şi eşarfa!</item>
         <item>Ninge slab, nu uitaţi să îmbrăcaţi căciula şi eşarfa!</item>
         <item>Ninge, nu uitaţi să îmbrăcaţi căciula şi eşarfa!</item>
-        <item>E furtună puternică de nisip, nu uitaţi să puneţi o mască pe faţă</item>
-        <item>E furtună puternică de nisip, nu uitaţi să puneţi o mască pe faţă</item>
-        <item>Aici e furtună puternică de nisip, nu uitaţi să puneţi o mască pe faţă</item>
-        <item>Aici e furtună puternică de nisip, nu uitaţi să puneţi o mască pe faţă</item>
+        <item>Nu uitaţi să puneţi o mască pe faţă</item>
+        <item>Nu uitaţi să puneţi o mască pe faţă</item>
+        <item>Nu uitaţi să puneţi o mască pe faţă</item>
+        <item>Nu uitaţi să puneţi o mască pe faţă</item>
         <item>Nu vedeţi grindină în fiecare zi! Păşiţi atent!</item>
-        <item>Calitatea aerului este proastă, nu uitaţi să puneţi o mască pe faţă</item>
-        <item>Calitatea aerului este proastă, încercați să stați în interior</item>
+        <item>Nu uitaţi să puneţi o mască pe faţă!</item>
+        <item>Încercați să stați în interior!</item>
     </string-array>
     <string-array name="weather_sms_addons">
-        <item>Datele meteo pentru @: $</item>
-        <item>Temperatura medie: %</item>
+        <item>Este $ în @.</item>
+        <item>Temperatură: % grade.</item>
         <item>Nu utaţi să luaţi umbrela!</item>
         <item>Încercați să rămâneţi uscat! :)</item>
         <item>Dacă uscaţi haine afară, nu uitaţi să le luaţi în interior mai târziu! :)</item>
@@ -151,9 +151,9 @@
         <item>Nu uitaţi să purtaţi o căciulă şi mănuşi</item>
         <item>E cald afară!</item>
         <item>E cald afară!</item>
-        <item>Strânge laolaltă!</item>
+        <item>Îmbrăcaţi-vă călduros!</item>
         <item>Se apropie vreme rece…</item>
-        <item>Strânge laolaltă!</item>
+        <item>Îmbrăcaţi-vă călduros!</item>
         <item>Purtaţi urechi de iarnă, dacă aveţi! :)</item>
         <item>Ieşiţi pentru a alerga!</item>
         <item>Ieşiţi pentru a alerga și pentru a lua puţin soare! :)</item>
@@ -220,7 +220,7 @@
         <item>23</item>
         <item>Cer senin şi temperaturi neconfortabile</item>
         <item>24</item>
-        <item>Cald și umed! :(</item>
+        <item>Cald și umed!</item>
     </string-array>
     <string-array name="weather_info_wcar">
         <item>0</item>
@@ -266,9 +266,9 @@
         <item>32</item>
         <item>Clar și însorit, cu temperaturi bune</item>
         <item>2</item>
-        <item>Temperaturi blânde și stabile</item>
+        <item>Temperaturi confortable și stabile</item>
         <item>1</item>
-        <item>Temperaturi blânde și stabile</item>
+        <item>Temperaturi confortable și stabile</item>
         <item>3</item>
         <item>Azi vremea va fi schimbătoare</item>
         <item>33</item>
@@ -278,7 +278,7 @@
     </string-array>
     <string-array name="weather_info_fl">
         <item></item>
-        <item>Îmbăcaţi-vă!</item>
+        <item>Îmbăcaţi-vă călduros!</item>
         <item>Briză</item>
         <item>Confortabil</item>
         <item>N</item>

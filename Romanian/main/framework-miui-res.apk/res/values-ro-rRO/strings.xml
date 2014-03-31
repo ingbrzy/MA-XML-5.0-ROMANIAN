@@ -123,7 +123,7 @@ Pentru a activa această funcţie accesaţi Setări > Butoane"</string>
     <string name="volume_icon_description_media">Media</string>
     <string name="volume_icon_description_notification">Notificare</string>
     <string name="volume_icon_description_ringer">Sonerie</string>
-    <string name="wake_alarm_message">Notificarea de închidere va suna la %s</string>
+    <string name="wake_alarm_message">Alarmă setată pentru %s</string>
     <string name="lockscreen_access_pattern_cleared">Model eliminat</string>
     <string name="lockscreen_access_pattern_start">Început</string>
     <string name="lockscreen_access_pattern_cell_added">Celulă adăugată</string>
@@ -153,7 +153,7 @@ Pentru a activa această funcţie accesaţi Setări > Butoane"</string>
     <string name="reboot_confirm_title">Telefonul dvs. va reporni</string>
     <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Aţi introdus incorect parola dvs. de %d ori. După încă %d încercări nereuşite, veţi fi rugat să deblocaţi telefonul dvs. utilizând contul Xiaomi.
 
- Încercaţi din nou în %d secunde."</string>
+ Încercaţi din nou în %d (de) secunde."</string>
     <string name="login_website_in_case_forget_password">Pentru a reseta parola dvs., accesaţi i.xiaomi.com.</string>
     <string name="text_copied">Text copiat</string>
     <string name="text_cut">Text decupat</string>

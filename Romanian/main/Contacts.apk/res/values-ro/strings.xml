@@ -720,6 +720,11 @@ Alegeţi una dintre următoarele opţiuni:"</string>
     <string name="dialog_voicemail_not_ready_message">Pentru a configura mesageria vocală, accesaţi Meniu > Setări.</string>
     <string name="dialog_voicemail_airplane_mode_message">Pentru a apela mesageria vocală, mai întâi dezactivaţi modul Avion.</string>
     <string name="action_menu_overflow_description">Mai multe opţiuni</string>
+    <string name="expand_collapse_name_fields_description">Extindere sau restrângere a câmpurilor de nume</string>
+    <string name="vcard_import_failed_v2">Imposibil de importat</string>
+    <string name="inner_version_info">"Versiune: "</string>
+    <string name="cta_version_dialog_title">Versiune externă</string>
+    <string name="cmcc_version_dialog_title">Versiune afişare</string>
     <string name="summary_kind_title">Rezumat</string>
     <string name="callrecordview_item_newcontact">Contact nou</string>
     <string name="callrecordview_item_op_time_minutes_seconds">%1$d m. %2$d s.</string>
@@ -768,6 +773,7 @@ Alegeţi una dintre următoarele opţiuni:"</string>
     <string name="deselect_all">Deselectaţi toate</string>
     <string name="select_none">Nimic selectat</string>
     <string name="toast_finish_delete_call_log">Jurnalul apelurilor a fost şters</string>
+    <string name="toast_finish_delete_selected_call_log">Jurnalul apelurilor selectat a fost şters</string>
     <string name="confirm_delete_contact_all_call_logs">Ştergeţi jurnalul apelurilor?</string>
     <string name="confirm_delete_selected_all_call_logs">Ştergeţi jurnalul apelurilor?</string>
     <string name="calllog_menu_blacklist">Blocaţi</string>
@@ -776,7 +782,9 @@ Alegeţi una dintre următoarele opţiuni:"</string>
     <string name="menu_call_ip_number">Efectuaţi apel IP (apelaţi %s)</string>
     <string name="menu_dial_ip_number">Efectuaţi apel IP</string>
     <string name="delete_contact_calllog_title">Ştergeţi jurnalul apelurilor?</string>
-    <string name="delete_unknown_contact_calllog_title">Ştergeţi toate apelurile contactelor necunoscute?</string>
+    <string name="delete_unknown_contact_calllog_title">Ştergeţi jurnalul apelurilor?</string>
+    <string name="callrecordview_menu_batch_delete">Ştergere în lot</string>
+    <string name="delete_call_log_selected_title">Ștergeţi jurnalul apelurilor selectat?</string>
     <string name="edit_contact_card_title">Editaţi cartela contactului</string>
     <string name="preview_contact_card_title">Importare contacte…</string>
     <string name="import_contact_card_button">Importaţi</string>
