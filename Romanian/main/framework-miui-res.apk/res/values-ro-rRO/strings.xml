@@ -88,7 +88,7 @@ Pentru a activa această funcţie accesaţi Setări > Butoane"</string>
     <string name="safetylegal_activity_unreachable">Nu se poate conecta la reţea. Puteți vizualiza aceste informații on-line la %s.</string>
     <string name="screen_button_notification_text">Pentru a le reactiva, apăsaţi butoanele Acasă şi Alimentare simultan</string>
     <string name="screen_button_notification_title">Butoanele de navigare sunt dezactivate</string>
-    <string name="screen_on_proximity_sensor_hint">Pentru a dezactiva această funcţie, apăsaţi butoanele Înapoi şi Volum\u25B3 simultan</string>
+    <string name="screen_on_proximity_sensor_hint">Pentru a dezactiva această funcţie, apăsaţi butoanele Înapoi şi Volum▲ simultan</string>
     <string name="screen_on_proximity_sensor_summary">Nu acoperiți partea de sus a ecranului</string>
     <string name="screen_on_proximity_sensor_title">Preveniţi apelarea în buzunar</string>
     <string name="sd_not_available">Nu s-a detectat niciun card SD</string>
@@ -163,7 +163,7 @@ Pentru a activa această funcţie accesaţi Setări > Butoane"</string>
     <string name="yellow_page_sms_send_failed">Trimiterea mesajului a eşuat</string>
     <string name="yellow_page_sms_sending">Trimitere…</string>
     <string name="yellow_page_sms_disabled_in_privacy_mode">Imposibil de trimis mesajul în modul Vizitator</string>
-    <string name="v5_date_time_picker_dialog_title">Setați timpul memento</string>
+    <string name="v5_date_time_picker_dialog_title">Setați timpul pt. memento</string>
     <string name="lockscreen_emergency_call">Apel de urgenţă</string>
     <string name="lockscreen_forgot_pattern_button_text">Am uitat</string>
     <string name="lockscreen_transport_prev_description">Anterioară</string>

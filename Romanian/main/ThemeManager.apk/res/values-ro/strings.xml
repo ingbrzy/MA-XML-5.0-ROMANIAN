@@ -208,9 +208,9 @@ conținutul pe care îl căutați nu este disponibil în prezent în regiunea dv
     <string name="resource_exchange_wrong_format_by_server">Codul nu a fost cerificat. Asiguraţi-vă că l-aţi introdus corect.</string>
     <string name="resource_exchange_has_used">Codul introdus a fost utilizat deja</string>
     <string name="resource_exchange_has_expired">Codul introdus este expirat</string>
-    <string name="resource_exchange_unavailable">Tema asociată codului introdus nu este disponibilă.</string>
+    <string name="resource_exchange_unavailable">Tema asociată codului introdus nu este disponibilă</string>
     <string name="resource_exchange_has_bought">Aţi procurat deja această temă</string>
-    <string name="resource_exchange_success">Savuraţi! :)</string>
+    <string name="resource_exchange_success">Savuraţi!</string>
     <string name="resource_exchange_share_code_dlg_title">Trimitere</string>
     <string name="resource_exchange_share_code_dlg_content">Codul cadou achiziționat pentru tema %1$s este: %2$s. Dacă îl trimiteţi unui alt utilizator MIUI, el/ea poate să-l folosească pentru a descărca această temă.</string>
     <string name="resource_exchange_share_code_content">Ați primit un cod cadou pentru tema %1$s. Codul este: %2$s. Atingeţi %3$s pentru a-l utiliza.</string>

@@ -15,9 +15,9 @@
         <item>Ieri (Date)</item>
         <item>Azi (Date)</item>
         <item>În această lună (Date)</item>
-        <item>Ieri Wi-Fi</item>
-        <item>Azi Wi-Fi</item>
-        <item>În această lună Wi-Fi</item>
+        <item>Ieri (Wi-Fi)</item>
+        <item>Azi (Wi-Fi)</item>
+        <item>În această lună (Wi-Fi)</item>
     </string-array>
     <string-array name="date_of_app">
         <item>Ieri (Date)</item>

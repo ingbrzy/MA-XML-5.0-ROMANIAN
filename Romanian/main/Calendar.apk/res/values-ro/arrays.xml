@@ -7,40 +7,25 @@
         <item>Alarmă</item>
     </string-array>
     <string-array name="reminder_minutes_labels">
-        <item>Niciunul</item>
+        <item>Niciun memento</item>
         <item>0 minute</item>
-        <item>1 minut</item>
         <item>5 minute</item>
         <item>10 minute</item>
         <item>15 minute</item>
-        <item>20 de minute</item>
-        <item>25 de minute</item>
         <item>30 de minute</item>
-        <item>45 de minute</item>
-        <item>1 oră</item>
-        <item>2 ore</item>
-        <item>3 ore</item>
-        <item>12 ore</item>
-        <item>24 de ore</item>
+        <item>1 zi</item>
         <item>2 zile</item>
         <item>1 săptămână</item>
     </string-array>
     <string-array name="preferences_default_reminder_labels">
-        <item>Niciunul</item>
+        <item>Niciun memnto</item>
         <item>0 minute</item>
-        <item>1 minut</item>
         <item>5 minute</item>
         <item>10 minute</item>
         <item>15 minute</item>
-        <item>20 de minute</item>
-        <item>25 de minute</item>
         <item>30 de minute</item>
-        <item>45 de minute</item>
         <item>1 oră</item>
-        <item>2 ore</item>
-        <item>3 ore</item>
-        <item>12 ore</item>
-        <item>24 de ore</item>
+        <item>1 zi</item>
         <item>2 zile</item>
         <item>1 săptămână</item>
     </string-array>

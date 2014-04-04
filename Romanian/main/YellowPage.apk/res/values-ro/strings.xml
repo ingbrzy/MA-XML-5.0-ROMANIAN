@@ -10,7 +10,16 @@
     <string name="locating_fail">Nu s-a reușit localizarea, vă rugăm să verificați serviciul de localizare sau să încercați din nou</string>
     <string name="no_more_result">Nu mai sunt rezultate</string>
     <string name="downloading">Descărcare…</string>
-    <string name="download_completed">Descărcare finalizată</string>
+    <string name="download_completed">Descărcat în %s</string>
+    <string name="download_failed">Descărcare eşuată</string>
+    <string name="download_failed_storage">Descărcare eşuată, verificaţi cardul SD</string>
+    <string name="download_failed_network">Descărcare eşuată, verificaţi setările reţelei</string>
+    <string name="download_failed_gone">Descărcare eşuată, fişier inexistent</string>
+    <string name="download_failed_server">Descărcare eşuată, încercaţi din nou mai târziu</string>
+    <string name="download_failed_cannot_resume">Descărcare eşuată, încercaţi din nou mai târziu</string>
+    <string name="download_failed_file_exists">Fişier existent</string>
+    <string name="download_failed_space">Descărcare eşuată, spaţiu insuficient</string>
+    <string name="download_failed_blocked">Descărcare eşuată, imposibil de conectat la reţea</string>
     <string name="yellow_page_detail_title">Despre</string>
     <string name="yellow_page_call_log_title">Jurnal apeluri</string>
     <string name="yellow_page_website">Site web oficial</string>

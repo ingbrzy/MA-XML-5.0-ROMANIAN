@@ -116,4 +116,5 @@
     <string name="button_start_now">Descărcaţi</string>
     <string name="notification_title_all_paused">Descărcare în pauză</string>
     <string name="notification_message_all_paused">Poate crește utilizarea datelor mobile</string>
+    <string name="toast_file_is_downloading">Acest fişier se descarcă, aşteptaţi</string>
 </resources>
