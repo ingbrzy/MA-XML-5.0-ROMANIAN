@@ -413,7 +413,7 @@
     <string name="pref_exit_on_closing_last_tab_enabled_title">Închideți cu ultima filă</string>
     <string name="url_hint">Căutaţi sau introduceţi URL</string>
     <string name="contextmenu_download_image_as">Salvaţi imaginea</string>
-    <string name="pref_ua_title">Gestionare agent utilizator</string>
+    <string name="pref_ua_title">Agent utilizator</string>
     <string name="pref_ua_string">Agent utilizator</string>
     <string name="pref_reading_mode_enabled_title">Mod citire</string>
     <string name="pref_reading_mode_enabled_title_summary">JavaScript trebuie să fie activat</string>

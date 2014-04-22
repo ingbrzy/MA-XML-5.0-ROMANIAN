@@ -3710,4 +3710,15 @@ Atingeţi butonul Adăugare persoane pentru a selecta persoanele pe care doriţi
     <string name="preferred_app_settings_default">Prestabilit(ă)</string>
     <string name="preferred_app_settings_reset">Restabiliţi aplicaţiile prestabilite?</string>
     <string name="preferred_app_settings_reset_message">Toate aplicațiile prestabilite vor fi restabilite în conformitate cu presetările MIUI</string>
+    <string name="sound_switch">Comutare sunet</string>
+    <string name="boot_sound">Sunet la pornire</string>
+    <string name="boot_sound_summary">Activaţi/Dezactivaţi sunetul la pornire</string>
+    <string name="camera_sound">Cameră</string>
+    <string name="camera_sound_summary">Activaţi/Dezactivaţi sunetul camerei</string>
+    <string name="camera_focus_sound">Focusare cameră</string>
+    <string name="camera_focus_sound_summary">Activaţi/Dezactivaţi sunetul de focusare al camerei</string>
+    <string name="videorecord_sound">Înregistrare video</string>
+    <string name="videorecord_sound_summary">Activaţi/Dezactivaţi sunetul la înregistrarea videoclipurilor</string>
+    <string name="default_memory">Stocare prestabilită</string>
+    <string name="default_memory_summary">Activaţi pentru a selecta stocarea dispozitivului ca prestabilită</string>
 </resources>

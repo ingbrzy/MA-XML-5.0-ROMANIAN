@@ -69,7 +69,7 @@
     <string name="pref_category_title_other">Setări adiţionale</string>
     <string name="pref_title_update_notification">Afişaţi utilizarea datelor în panoul notificărilor</string>
     <string name="pref_title_traffic_speed_state">Afişaţi viteza rețelei</string>
-    <string name="pref_show_mobile_traffic">Atunci când deblocaţi telefonul, se afişează statistica de utilizare a datelor pentru perioada în care dispozitivul a fost blocat (trebuie să fie mai mare de 3 minute)</string>
+    <string name="pref_show_mobile_traffic">Atunci când deblocaţi telefonul, se afişează statistica de utilizare a datelor pentru perioada în care dispozitivul a fost blocat (trebuie să fie mai mare de 5 minute)</string>
     <string name="pref_title_mobile_traffic">Afişaţi utilizarea datelor în perioada cât a fost blocat</string>
     <string name="pref_title_declaration">Act de renunțare</string>
     <string name="pref_about">Despre</string>

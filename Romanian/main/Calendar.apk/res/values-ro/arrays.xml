@@ -6,6 +6,30 @@
         <item>SMS</item>
         <item>Alarmă</item>
     </string-array>
+    <string-array name="reminder_minutes_labels">
+        <item>Niciun memento</item>
+        <item>0 minute</item>
+        <item>5 minute</item>
+        <item>10 minute</item>
+        <item>15 minute</item>
+        <item>30 de minute</item>
+        <item>1 oră</item>
+        <item>1 zi</item>
+        <item>2 zile</item>
+        <item>1 săptămână</item>
+    </string-array>
+    <string-array name="preferences_default_reminder_labels">
+        <item>Niciun memento</item>
+        <item>0 minute</item>
+        <item>5 minute</item>
+        <item>10 minute</item>
+        <item>15 minute</item>
+        <item>30 de minute</item>
+        <item>1 oră</item>
+        <item>1 zi</item>
+        <item>2 zile</item>
+        <item>1 săptămână</item>
+    </string-array>
     <string-array name="preferences_week_start_day_labels">
         <item>Codul local prestabilit</item>
         <item>Sâmbătă</item>

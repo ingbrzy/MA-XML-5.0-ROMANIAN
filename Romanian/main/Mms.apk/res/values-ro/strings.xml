@@ -463,4 +463,5 @@
     <string name="pref_summary_mx_feedback">Raportaţi probleme și trimiteţi feedback-uri direct către Xiaomi</string>
     <string name="feedback_description_hint">Introduceţi mesajul dvs. aici</string>
     <string name="feedback_submit">Trimiteţi</string>
+    <string name="confirm_send_mms">Unul dintre destinatari include o adresă de e-mail. Acest mesaj va fi trimis ca un MMS, ceea ce poate duce la costuri suplimentare.</string>
 </resources>

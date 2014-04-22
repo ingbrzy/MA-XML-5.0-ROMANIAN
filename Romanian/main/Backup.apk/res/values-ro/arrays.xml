@@ -6,23 +6,23 @@
     </string-array>
     <string-array name="system_package_label">
         <item>Browser</item>
-        <item>Manager fişiere</item>
+        <item>Explorer</item>
         <item>Galerie</item>
         <item>Permisiuni</item>
         <item>Cameră</item>
         <item>Utilizare date</item>
-        <item>Date meteo</item>
+        <item>Meteo</item>
         <item>Vreme</item>
     </string-array>
     <string-array name="system_data_label">
         <item>Contacte</item>
-        <item>Jurnal apeluri</item>
+        <item>Jurnalul apelurilor</item>
         <item>Mesaje</item>
         <item>Mesaje multimedia</item>
         <item>Setări de sistem</item>
         <item>Setări Wi-Fi</item>
-        <item>Schemă desktop</item>
-        <item>Setări alarmă</item>
+        <item>Aspectul lansatorului</item>
+        <item>Setările alarmei</item>
         <item>Note</item>
         <item>Nu deranjaţi</item>
         <item>Cont</item>
@@ -34,7 +34,7 @@
     </string-array>
     <string-array name="cloud_data_label">
         <item>Contacte</item>
-        <item>Jurnal apeluri</item>
+        <item>Jurnalul apelurilor</item>
         <item>Mesaje</item>
         <item>Setări Wi-Fi</item>
         <item>Note</item>
@@ -45,7 +45,7 @@
         <item>Note</item>
     </string-array>
     <string-array name="cloud_sim_data">
-        <item>Jurnal apeluri</item>
+        <item>Jurnalul apelurilor</item>
         <item>Mesaje</item>
     </string-array>
 </resources>
