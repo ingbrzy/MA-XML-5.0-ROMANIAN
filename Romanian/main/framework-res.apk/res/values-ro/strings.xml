@@ -1325,4 +1325,5 @@ Ascultarea la volum ridicat pe perioade lungi de timp vă poate afecta auzul."</
     <string name="open_airplane_mode">Modul avion va fi activat</string>
     <string name="close_airplane_mode">Modul avion va fi dezactivat</string>
     <string name="transport_string">Rezervare doar a cache-ului privat pt. depanare</string>
+    <string name="global_action_recovery">Recuperare</string>
 </resources>
