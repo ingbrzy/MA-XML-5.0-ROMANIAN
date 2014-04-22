@@ -209,4 +209,10 @@
     <string name="voiceui_or">sau</string>
     <string name="dialog_color_picker">Alegere culoare</string>
     <string name="press_color_to_apply">Apăsaţi pe culoare pt. a aplica</string>
+    <string name="stas2z_storage_internal">Internal storage</string>
+    <string name="stas2z_storage_sd_card">Card SD</string>
+    <string name="stas2z_storage_usb">Stocare USB</string>
+    <string name="stas2z_storage_phone">Stocare telefon</string>
+    <string name="stas2z_storage_external_usb">Stocare USB externă</string>
+    <string name="stas2z_android_system_label">Sistemul Android</string>
 </resources>
