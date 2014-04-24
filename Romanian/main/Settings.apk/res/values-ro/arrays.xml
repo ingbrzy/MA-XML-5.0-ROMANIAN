@@ -371,21 +371,21 @@
         <item>9 secunde</item>
     </string-array>
     <string-array name="mi1_led_color_entries">
-        <item>Albastru</item>
-        <item>Roşu</item>
+        <item>Albastră</item>
+        <item>Roşie</item>
         <item>Verde</item>
         <item>Roz</item>
-        <item>Violet</item>
-        <item>Purpuriu</item>
+        <item>Violetă</item>
+        <item>Purpurie</item>
     </string-array>
     <string-array name="led_color_entries">
-        <item>Albastru</item>
-        <item>Roşu</item>
-        <item>Galben</item>
+        <item>Albastră</item>
+        <item>Roşie</item>
+        <item>Galbenă</item>
         <item>Verde</item>
         <item>Cyan</item>
-        <item>Alb</item>
-        <item>Violet</item>
+        <item>Albă</item>
+        <item>Violetă</item>
     </string-array>
     <string-array name="wfd_status">
         <item>Dispozitiv conectat, creare sesiune…</item>
