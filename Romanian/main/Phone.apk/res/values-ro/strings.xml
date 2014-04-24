@@ -140,9 +140,9 @@
     <string name="simlock_returntocall">Revenire la apel</string>
     <string name="simlock_firstsim">pentru primul SIM</string>
     <string name="simlock_secondsim">pentru al doilea SIM</string>
-    <string name="simlock_newsiminsert">A fost introdusă o cartelă SIM nouă</string>
+    <string name="simlock_newsiminsert">A fost introdus un card SIM nou</string>
     <string name="simlock_moreinfo">Mai multe informaţii</string>
-    <string name="simlock_unlockmardedcard">Deblocaţi cartela SIM marcată</string>
+    <string name="simlock_unlockmardedcard">Deblocaţi cardul SIM marcat</string>
     <string name="cannot_answered_Video_Call">Nu se poate răspunde la apelul video din cauza că există deja un apel vocal în curs</string>
     <string name="cannot_answered_Voice_Call">Nu se poate răspunde la apelul vocal din cauza că există deja un apel video în curs</string>
     <string name="callDurationFormat">%1$s minute %2$s secunde</string>
@@ -259,7 +259,7 @@
     <string name="fdn_errorcode_storage_info">Stocarea este plină</string>
     <string name="fdn_errorcode_phb_info">Agenda nu este pregătită pentru moment, încercaţi mai târziu</string>
     <string name="fdn_errorcode_pin2_info">Codul PIN2 este greşit</string>
-    <string name="net_or_simcard_busy">Reţea sau cartelă SIM ocupate, încercaţi mai târziu</string>
+    <string name="net_or_simcard_busy">Reţea sau card SIM ocupate, încercaţi mai târziu</string>
     <string name="gsm_umts_network_preferences_title">Mod reţea</string>
     <string name="gsm_umts_network_preferneces_summary">Nu este implementat încă</string>
     <string name="gsm_umts_network_preferences_dialogtitle">Mod reţea</string>
@@ -327,7 +327,7 @@ condiționată activat"</string>
 Sigur permiteţi serviciul de date mobile preferat?"</string>
     <string name="manual_select_title">Selectare manuală</string>
     <string name="manual_select_dialog_msg">Telefonul mobil nu va selecta alți operatori în modul de selectare manuală. Uneori trebuie să faceţi selectarea manuală din nou sau să reveniți la modul de selecție automată atunci când ați pierdut serviciul operatorului selectat. Vă recomandăm să folosiți \"Selectare automată\". Doriţi să selectați rețeaua manual?</string>
-    <string name="no_service_msg_gemini">"Momentan, nu există niciun serviciu de la operatorul ales pentru cartela SIM \"%s\".
+    <string name="no_service_msg_gemini">"Momentan, nu există niciun serviciu de la operatorul ales pentru cardul SIM \"%s\".
 Vă recomandăm să folosiți \"Selectare automată\" sau puteţi selecta manual alt operator."</string>
     <string name="no_service_msg">"Momentan, nu există niciun serviciu de la operatorul ales.
 Vă recomandăm să folosiți \"Selectare automată\" sau puteţi selecta manual alt operator."</string>
@@ -376,7 +376,7 @@ Vă recomandăm să folosiți \"Selectare automată\" sau puteţi selecta manual
     <string name="retries_left">%d încercări rămase</string>
     <string name="pin2_unblocked">Deblocare reuşită cu codul PIN2</string>
     <string name="unblock_pin2">Deblocare cu codul PIN2</string>
-    <string name="sim_permanently_locked">Introducerea incorectă a codului PUK2 mai mult de 10 ori, cartelă SIM blocată pt. totdeauna</string>
+    <string name="sim_permanently_locked">Aţi introdus incorect codul PUK2 de mai mult de 10 ori, cardul SIM a fost blocat pentru totdeauna</string>
     <string name="pin_length_indicate">(4-8 cifre)</string>
     <string name="puk_length_indicate">(8 cifre)</string>
     <string name="card_title_incoming_vt_call">Apel video</string>
@@ -638,7 +638,7 @@ Rata de transfer se reduce la %2$d Kbps"</string>
     <string name="multi_category_enable">Categorii multiple activate</string>
     <string name="multi_category_disable">Categorii multiple dezactivate</string>
     <string name="prefer_2g">Utilizaţi doar reţele 2G</string>
-    <string name="prefer_2g_summary">Economisiţi bateria</string>
+    <string name="prefer_2g_summary">Economisiţi acumulatorul</string>
     <string name="cdma_system_select_title">Selectaţi sistemul</string>
     <string name="cdma_system_select_summary">Schimbaţi modul de roaming CDMA</string>
     <string name="cdma_system_select_dialogtitle">Selectaţi sistemul</string>
@@ -900,10 +900,10 @@ Pentru mai multe opţiuni, încercaţi din nou sau apelaţi serviciul pentru cli
     <string name="sip_system_decide">Automat</string>
     <string name="sip_always_send_keepalive">Se trimite întotdeauna</string>
     <string name="not_voice_capable">Apelarea vocală nu este acceptată</string>
-    <string name="respond_via_sms_canned_response_1">Nu pot acum. Despre ce e vorba?</string>
+    <string name="respond_via_sms_canned_response_1">Nu pot vorbi acum. Despre ce e vorba?</string>
     <string name="respond_via_sms_canned_response_2">Te sun imediat înapoi.</string>
     <string name="respond_via_sms_canned_response_3">Te sun mai târziu.</string>
-    <string name="respond_via_sms_canned_response_4">Nu pot acum. Vorbim mai târziu?</string>
+    <string name="respond_via_sms_canned_response_4">Nu pot vorbi acum. Vorbim mai târziu?</string>
     <string name="respond_via_sms_custom_message">Mesaj personalizat</string>
     <string name="respond_via_sms_setting_title">Răspunsuri rapide</string>
     <string name="respond_via_sms_setting_title_2">Editaţi răspunsurile rapide</string>
