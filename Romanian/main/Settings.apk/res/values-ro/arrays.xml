@@ -458,10 +458,6 @@ telefonul se va deschide automat după conectarea la computer"</item>
         <item>Permiteţi</item>
         <item>Refuzaţi</item>
     </string-array>
-    <string-array name="entries_color_calibration">
-        <item>sRGB</item>
-        <item>Nativ</item>
-    </string-array>
     <string-array name="wifi_connect_type_entries">
         <item>Conectare automată</item>
         <item>Conectare manuală</item>
