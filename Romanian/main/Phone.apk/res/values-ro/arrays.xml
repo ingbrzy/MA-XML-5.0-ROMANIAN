@@ -5,16 +5,6 @@
         <item>Ascundeţi numărul</item>
         <item>Afişaţi numărul</item>
     </string-array>
-    <string-array name="preferred_network_mode_choices">
-        <item>LTE/CDMA</item>
-        <item>Numai EvDo</item>
-        <item>CDMA fără EvDo</item>
-        <item>CDMA/EvDo automat</item>
-        <item>GSM/WCDMA automat</item>
-        <item>Numai WCDMA</item>
-        <item>Doar GSM</item>
-        <item>GSM/WCDMA preferată</item>
-    </string-array>
     <string-array name="cdma_system_select_choices">
         <item>Doar domiciliu</item>
         <item>Automat</item>
