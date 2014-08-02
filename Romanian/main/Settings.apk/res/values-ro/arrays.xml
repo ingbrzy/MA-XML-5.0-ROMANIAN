@@ -398,7 +398,6 @@
     <string-array name="power_mode_entries">
         <item>Performanţă</item>
         <item>Normal</item>
-        <item>Economisire</item>
     </string-array>
     <string-array name="msd_pc_system">
         <item>Windows XP şi versiuni Windows mai vechi</item>
@@ -508,7 +507,6 @@ telefonul se va deschide automat după conectarea la computer"</item>
     <string-array name="power_dialog_cpu_state_items">
         <item>Performanţă</item>
         <item>Echilibrat</item>
-        <item>Economisire acumulator</item>
     </string-array>
     <string-array name="power_dialog_vibration_items">
         <item>Fără vibrare</item>
