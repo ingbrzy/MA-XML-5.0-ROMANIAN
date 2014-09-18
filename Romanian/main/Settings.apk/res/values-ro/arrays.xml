@@ -297,13 +297,6 @@
         <item>IPv4</item>
         <item>IPv4 şi IPv6</item>
     </string-array>
-    <string-array name="overlay_display_devices_entries">
-        <item>Niciuna</item>
-        <item>720x480 mdpi</item>
-        <item>1280x720 tvdpi</item>
-        <item>1920x1080 xhdpi</item>
-        <item>1280x720 tvdpi şi 1920x1080 xhdpi</item>
-    </string-array>
     <string-array name="enable_opengl_traces_entries">
         <item>Niciuna</item>
         <item>Logcat</item>
